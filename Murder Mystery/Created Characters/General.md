@@ -8,5 +8,5 @@ Tonight's event is an auction for the recently departed, reknown chef Rigatoni A
 
 ## Relationships
 ---
-- [[Philanthropist | Nathan Cain  - Philanthropist]]  - Your Son-in-Law, who is aslo using Penelope Hunt's services to sell his estates
+- [[Philanthropist | Nathan Cain  - Philanthropist]]  - Your Son-in-Law, who is also using Penelope Hunt's services to sell his estates
 - 

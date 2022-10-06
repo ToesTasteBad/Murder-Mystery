@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Template Character.md",
+            "file": "Created Characters/General.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template Character.md",
+                "file": "Created Characters/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Template Character.md",
+                "file": "Created Characters/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template Character.md"
+                "file": "Created Characters/General.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "a9429827c28eb9d8",
   "lastOpenFiles": [
-    "Name.md",
     "Templates/Template Character.md",
+    "Created Characters/General.md",
     "Created Characters/Philanthropist.md",
-    "Created Characters/General.md"
+    "Name.md"
   ]
 }
