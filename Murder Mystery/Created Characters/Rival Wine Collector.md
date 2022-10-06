@@ -1,0 +1,13 @@
+# Name: Daniel Pierce
+# Role: Rival Wine Collector
+# Played By: Levi Butts
+
+## Description
+---
+For the last several decades, you've been a relatively popular crime author, but that's only a way of funding your true passion, wine collection. You love talking about wine, having a bottle to pop open for special occasions, and impressing people cultured enough to know about it with your rarer bottles. You normally have the means to get the bottles you really want, but a certain rival wine collector always manages to swipe the very best ones out from under you with his seemingly infinite funds, and he never sells. In fact, you've heard that a particularly magnificent bottle of wine will be up for auction at tonight's event. Maybe this is the night your luck turns around?
+
+## Relationships
+---
+- [[Wine Collector|Gregor Toussaint - Wine Collector]]  - Your rival, and the host of tonight's party. He's too rich for his own good, and he always manages to outbid you on the very best bottles. You get some satisfaction from pushing his bids up to extravagant amounts.
+- [[Art Collector|Ruben Barlow - Art Collector]]  - A dear friend of yours. You have different tastes, but get along quite well. You'll often share your art and wine with one another.
+- [[Detective|Keith Hartley - Detective]]  - TODO
