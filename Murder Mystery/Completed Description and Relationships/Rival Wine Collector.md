@@ -10,4 +10,4 @@ For the last several decades, you've been a relatively popular crime author, but
 ---
 - [[Wine Collector|Gregor Toussaint - Wine Collector]]  - Your rival, and the host of tonight's party. He's too rich for his own good, and he always manages to outbid you on the very best bottles. You get some satisfaction from pushing his bids up to extravagant amounts.
 - [[Art Collector|Ruben Barlow - Art Collector]]  - A dear friend of yours. You have different tastes, but get along quite well. You'll often share your art and wine with one another.
-- [[Detective|Keith Hartley - Detective]]  - TODO
+- [[Detective|Keith Hartley - Detective]]  - Not all rare bottles of wine are simply up for auction. You've had Hartley snoop out some fine specimens in the past.
