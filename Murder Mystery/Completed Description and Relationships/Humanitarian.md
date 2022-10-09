@@ -10,4 +10,4 @@ You are an accomplished humanitarian and the director of the non-profit, Fine Cu
 ---
 - [[Philanthropist|Nathan Cain - Philanthropist]]  - Your husband!
 - [[General|Vladimir Grey - General]]  - Your father! Needless to say, you have differing views.
-- [[Senator's Wife|Rebecca Ramos - Senator's Wife]]  - A good friend from your youth. She often jokes that you've inspired some of your characters.
+- [[Author|Rebecca Ramos - Author]]  - A good friend from your youth. She often jokes that you've inspired some of your characters.
