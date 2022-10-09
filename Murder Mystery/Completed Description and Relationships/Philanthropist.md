@@ -1,4 +1,4 @@
-# Name: Nathain Cain
+# Name: Nathan Cain
 # Role: Philanthropist
 # Played By: Chris Johnston
 
