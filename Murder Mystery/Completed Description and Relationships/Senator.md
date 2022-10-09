@@ -8,7 +8,7 @@ By day, you're a senator for the state of Minnesota. By night, an enjoyer of the
 
 ## Relationships
 ---
-- [[Senator's Wife|Rebecca Ramos - Senator's Wife]]  - Is currently in an argument over the secret that was shared with the bartender. She wants to help, but you have it covered!
+- [[Author|Rebecca Ramos - Author]]  - Is currently in an argument over the secret that was shared with the bartender. She wants to help, but you have it covered!
 - [[Bartender|Frances Larsen - Bartender]]  - Accidentally shared some insider secrets while drunk with the bartender. Is hoping to bribe him to keep quiet at the party.
 - [[General|Vladimir Grey - General]]  - You have a vote coming up on the mlitary budget for the upcoming year. It's close, and your vote could end up slashing the military budget, or bolstering it. General Grey has been pestering you to "show a little generosity" for the last few weeks.
 - [[Philanthropist|Nathan Cain - Philanthropist]]  - Nathan Cain has been a long time donator to your campaign!
