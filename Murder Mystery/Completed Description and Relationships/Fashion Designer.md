@@ -9,8 +9,8 @@ You are a designer of high end fashion, running your own label, Saville.  You me
 ## Relationships
 ---
 - [[Bartender|Frank Larsen - Bartender]]  - Your boyfriend, he worked with and was good friends with Rigatoni.
-- [[Model|Blair Ashleigh - Model]]  - A model you've seen a lot more since you started coming to Rigatoni's though you have worked with her before.  She's been with Rigatoni's protege, Puck, for a while now. 
-- [[Food TV Personality|Jodi Souvid - Food TV Personality]]  - You've been working on a new line of high fashion cooking attire recently, and are hoping to gain Jodi's endorsement, as she's the biggest name on Food TV
+- [[Model|Blair Ashleigh - Model]]  - A model you've never been able to please, she refuses to wear your designs.  You've seen her hanging around with Rigatoni's protege, Puck, at the restraunt.
+- [[Food TV Host|Jodi Souvid - Food TV Host]]  - You've been working on a new line of high fashion cooking attire recently, and are hoping to gain Jodi's endorsement, as she's the biggest name on Food TV
 - [[Author|Rebecca Ramos - Author]] - She's married to Senator Ramos, and commissioned you to make her a fancy dress for her first State Dinner, but has been slow on payment since then.  It's not like they don't have the money either, and that dress completely stole the show.
 
 ## Tasks
