@@ -10,4 +10,6 @@ You are a critically aclaimed actress who has just decided to take the next step
 ---
 - [[Bartender|Frances Larsen - Bartender]]  - He makes drinks for the city's most influential people. You've politely asked him to start using your gin, but he rudely refused.
 - [[Detective|Keith Hartley - Detective]]  - Your boyfriend! A detective.
-- [[Food TV Personality|Jodi Souvid - Food TV Personality]]  - She keeps pestering you to go on her show.
+- [[Food TV Host | Jodi Souvid - Food TV Host]]  - She keeps pestering you to go on her show.
+- [[General | Vladimir Grey - General]] - You don't know him personally but have heard rumors that he is a very big fan of yours!
+- [[Model | Blair Ashleigh - Model]] - You and Blair use to be good friends. However, since her modeling career has taken off, you've noticed that the papers don't seem to be paying as much attention to you as they use to. You want to remain friends but are struggling with how to handle sharing the spotlight.
