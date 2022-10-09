@@ -11,3 +11,4 @@ You are an accomplished author. You've spent the last 20 years of your life cran
 - [[Franchise Owner|Darren Kaufman - Franchise Owner]]  - Ugh. Darren Kaufman. The owner of the popular restaurant chain, WcRonalds. He's convinced that one of characters is based on him and has been pestering you for royalties.
 - [[Senator|Stephen Ramos - Senator]]  - Your husband!
 - [[Humanitarian|Elizabeth Cain - Humanitarian]]  - A good friend from college. Some of your characters actually are based on her.
+- [[Fashion Designer|Diana Saville - Fashion Designer]] - A dressmaker you commissioned to make your first State Dinner dress.  She's getting so pushy about the payment though, doesn't she know how much attention her label got from you wearing her dress?  You've probably made her 50 times what that dress was worth now.

@@ -1,6 +1,6 @@
 # Name: Puck Augustini
 # Role: Protege
-# Played By: Bailey Kaufman
+# Played By: Bailey Koppen
 
 ## Description
 ---
