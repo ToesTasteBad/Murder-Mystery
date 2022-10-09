@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You are the mayor of the city and very well connected. Tonight's event is for one of the city's greatest chefs, Rigatoni Alfredo, who has recently passed. You are hoping to be seen giving your condolences in hopes it looks favorably on you as you've heard rumors your approval numbers aren't what they use to be. You are upset the city has potentially lost a great asset with Rigatoni now dead, but to be honest you never really cared for the man. Your also hoping to take this opportunity to further your relationship with a certain senator you've been told will be in attendance to help further your political clout!
+You are the mayor of the city and very well connected. To be honest, you achieved the mayorship through some... unsavory means, but you've heard that they're justified by the ends. Tonight's event is for one of the city's greatest chefs, Rigatoni Alfredo, who has recently passed. You'll schmooze and carouse and talk solemly about how the loss of Alfredo is a great blow to the city. That should earn you a rating point or two. Maybe you'll even make a good impression on a certain senator who is supposed to be in attendance.
 
 ## Relationships
 ---
