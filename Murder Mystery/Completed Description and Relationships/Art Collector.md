@@ -12,3 +12,4 @@ You are an art collector and proprieter of Gallery 16 on the West side of town. 
 - [[Rival Wine Collector|Daniel Pierce - Rival Wine Collector]]  - A good friend. You listen to all of his wine ramblings, and in return, he listens to all of your insight on art.
 - [[Model|Blair Ashleigh - Model]]  - Recently wore a print of one of the pieces in your collection during a photo shoot. A little bit blasphemous, but the publicity was worth it.
 - [[Detective|Keith Hartley - Detective]]  - He's been seen snooping around your gallery. This makes you a bit nervous because, to be honest, not all of your pieces were acquired by entirely *legal* methods.
+- [[Secretary|Rakeeta Brown - Secretary]] - You two have been dating for a number of years.
