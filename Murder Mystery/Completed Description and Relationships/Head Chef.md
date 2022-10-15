@@ -12,3 +12,23 @@ You are the head chef at La Bouffe, one of the finest restaurants in the city. T
 - [[Restaurant Owner|Erik Howell - Restaurant Owner]]  - He's been driving you particularly hard since Alfredo's death. He wants everyone to know who the best chef in town is now that he's gone.
 - [[Protege|Puck Augustini - Protege]] - Alfredo's prodige. A formiddable chef and a hard worker. You look forward to watching him grow.
 - [[Food Critic|Harvey Davenport - Food Critic]] - Responsible for your reputation as the second best chef in town. You haven't spoken, but you get the feeling he's a bit of a snob.
+
+## Tasks
+___
+- ### Pre-Auction Tasks: 
+	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about.
+	- task2:
+	- task3:
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!
