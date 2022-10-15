@@ -10,5 +10,5 @@ You are an accomplished author. You've spent the last 20 years of your life cran
 ---
 - [[Franchise Owner|Darren Kaufman - Franchise Owner]]  - Ugh. Darren Kaufman. The owner of the popular restaurant chain, WcRonalds. He's convinced that one of your characters is based on him and has been pestering you for royalties.
 - [[Senator|Stephen Ramos - Senator]]  - Your husband!
-- [[Humanitarian|Elizabeth Cain - Humanitarian]]  - A good friend from college. Some of your characters actually are based on her.
+- [[Humanitarian|Elizabeth Cain - Humanitarian]]  - A good friend from college. Some of your characters are actually based on her.
 - [[Fashion Designer|Diana Saville - Fashion Designer]] - A very talented fashion designer. You commissioned Diana to make the dress you wore to your first state dinner, and she only made the exorbitant price clear to you after the fact. You still owe her for that, and it's not that you can't afford it, but her attitude hasn't made you rush to pay.

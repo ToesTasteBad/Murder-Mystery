@@ -13,3 +13,23 @@ As a famous wine collector, you've made both friends and enemies in the world of
 - [[Vinter|Giovanni Bishop - Vinter]]  - You've often considered yourself lucky to live so near to one who makes such fine wines. Indeed, his vintages make up a sizeable fraction of your collection, and you consider them to be reliable go-to's. You are one of Giovanni's top investors.
 - [[Realtor|Penelope Hunt - Realtor]]  - She's recently been hounding you to sell your mansion. She must have received quite the offer, but you don't plan on moving anytime soon.
 - [[Eldest Child|Orzo Alfredo - Eldest Child]]  - Rigatoni's son. You never knew him that well, but loved dining at his father's restaurant. He's asked you to host tonight's event, and you were happy to oblige.
+
+## Tasks
+___
+- ### Pre-Auction Tasks: 
+	- task1:  
+	- task2:  
+	- task3:  
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!
