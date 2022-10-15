@@ -12,3 +12,23 @@ You are a professional wine taster, and your reviews are some of the most truste
 - [[Food TV Host|Jodi Souvid - Food TV Host]] - You have reached out to Jodi, who is an old friend of yours, about doing an episode all about wine. You are hoping some new exposure could boost the need for your services a bit.
 - [[Vinter|Giovanni Bishop - Vinter]] - You have been in business with Giovanni for a number of years now. You stamp your label on the bottles of his you recommend and you get a certain percentage kick back for every bottle sold. You two have come to a bit of a disagreement though, as he is trying to cut your kick back percentage.
 - [[Food Critic|Harvey Davenport - Food Critic]] - You and Harvey have been talking about starting a shared review collumn together, talking about the best food and wine pairings in the city and surrounding areas. You two are still figuring out the details.
+
+## Tasks
+___
+- ### Pre-Auction Tasks: 
+	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about.
+	- task2:  
+	- task3:  
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!

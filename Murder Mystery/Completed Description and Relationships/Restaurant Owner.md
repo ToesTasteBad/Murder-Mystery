@@ -15,3 +15,23 @@ You are the owner of one of the best restaurants in the city, La Bouffe. Tonight
 - [[Second Child|Ziti Alfredo - Second Child]]  - Rigatoni's younger son. He seems like a good enough guy.
 - [[Mayor|James Hudson - Mayor]]  - You're a supporter of his.
 - [[Food TV Host|Jodi Souvid - Food TV Host]]  - You're dating!
+
+## Tasks
+___
+- ### Pre-Auction Tasks: 
+	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about.
+	- task2:  
+	- task3:  
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!

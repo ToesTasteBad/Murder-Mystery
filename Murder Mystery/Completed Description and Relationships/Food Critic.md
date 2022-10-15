@@ -13,3 +13,23 @@ You are a well-respected and widely published food critic. This event is to comm
 - [[Sommelier|Anton Sherman - Sommelier]] - You and Anton have been talking about starting a shared review column together, talking about the best food and wine pairings in the city and surrounding areas. You two are still figuring out the details.
 - [[Health Inspector|Poppy Steinwell - Health Inspector]] - You and Poppy are good golfing buddies. Between the two of you, you know an awful lot about the city's restaurants and enjoy sharing the latest food related gossip.
 - [[Vinter|Giovanni Bishop - Vinter]] - Giovanni is another good golf buddy of your's but, has been a bit caught up at the vinyard of late and has been unable to join much at all this season.
+
+## Tasks
+___
+- ### Pre-Auction Tasks: 
+	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about.
+	- task2:  
+	- task3:  
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!

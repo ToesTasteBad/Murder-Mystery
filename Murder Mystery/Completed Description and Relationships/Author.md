@@ -12,3 +12,23 @@ You are an accomplished author. You've spent the last 20 years of your life cran
 - [[Senator|Stephen Ramos - Senator]]  - Your husband!
 - [[Humanitarian|Elizabeth Cain - Humanitarian]]  - A good friend from college. Some of your characters are actually based on her.
 - [[Fashion Designer|Diana Saville - Fashion Designer]] - A dressmaker you commissioned to make your first State Dinner dress.  She's getting so pushy about the payment though, doesn't she know how much attention her label got from you wearing her dress?  You've probably made her 50 times what that dress was worth now.
+
+## Tasks
+___
+- ### Pre-Auction Tasks: 
+	- task1:  
+	- task2:  
+	- task3:  
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!
