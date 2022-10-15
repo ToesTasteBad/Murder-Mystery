@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You are an art collector and proprieter of Gallery 16 on the West side of town. You've sold numerous paintings to many in attendance at tonight's event. The event in question? An auction for world class chef, Rigatoni Alfredo, who has recently passed. You sold him a remarkable piece a number of years back, which still isn't paid off. You are hoping to use tonight's event to get more details on the fate of this painting and to convince whichever Alfredo boy has current ownership to sell their stake in it back to the gallery so you can profit further from its beauty.
+You are an art collector and proprietor of Gallery 16 on the West side of town. You've sold numerous paintings to many in attendance at tonight's event. The event in question? An auction for world class chef, Rigatoni Alfredo, who has recently passed. You sold him a remarkable piece a number of years back which still hangs in his restaurant today!
 
 ## Relationships
 ---
