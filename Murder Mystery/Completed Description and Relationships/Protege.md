@@ -13,4 +13,4 @@ Tonight's event is to commemorate the death of Rigatoni Alfredo, the world's gre
 - [[Head Chef|Arthur Cooke - Head Chef]]  - A talented chef at La Bouffe. Your work is often compared, but there's no bad blood between you.
 - [[Eldest Child|Orzo Alfredo - Eldest Child]]  - Your mentor's eldest son. Despite all the time you spent with his father, you haven't seen him around much. He seems to be more active in his father's death than he was in his life.
 - [[Second Child|Ziti Alfredo - Second Child]]  - Your mentor's younger son. Now here's a man who appreciates cooking. You get the feeling he would have liked his father's mentorship if only he had more talent for cooking.
-- [[Bartender|Frances Larsen - Bartender]]  - He was the bartender at Alfredo's. He seemed to do a good job and gt along well with your mentor, but when Rigatoni passed, Frank left to work at La Bouffe shortly thereafter.
+- [[Bartender|Frances Larsen - Bartender]]  - He was the bartender at Alfredo's. He seemed to do a good job and got along well with your mentor, but when Rigatoni passed, Frank left to work at La Bouffe shortly thereafter.

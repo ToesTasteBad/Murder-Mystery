@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You are a world renowned bartender, who worked with and got on with Rigatoni Alfredo splendidly. The two of you used to make incredible pairings of drink and food, but now he's gone and so is that magic.  Since his death things haven't been the same, so, looking for a shake up, you've decided to take a job at a different restaurant in town, La Bouffe. As a final courtesy to Rigatoni, you've volunteered your services for tonight's charity auction
+You are a world renowned bartender who worked with Rigatoni Alfredo. The two of you got on splendidly. You used to make incredible pairings of drink and food, but now he's gone and so is that magic.  Since his death things haven't been the same, so, looking for a shake up, you've decided to take a job at a different restaurant in town, La Bouffe. As a final courtesy to Rigatoni, you've volunteered your services for tonight's charity auction
 
 ## Relationships
 ---

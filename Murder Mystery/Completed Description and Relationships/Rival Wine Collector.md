@@ -4,7 +4,7 @@
 
 ## Description
 ---
-For the last several decades, you've been a relatively popular crime author, but that's only a way of funding your true passion, wine collection. You love talking about wine, having a bottle to pop open for special occasions, and impressing people cultured enough to know about it with your rarer bottles. You normally have the means to get the bottles you really want, but a certain rival wine collector always manages to swipe the very best ones out from under you with his seemingly infinite funds, and he never sells. In fact, you've heard that a particularly magnificent bottle of wine will be up for auction at tonight's event. Maybe this is the night your luck turns around?
+For the last several decades, you've been a relatively popular crime author, but that's only a way of funding your true passion, wine collection. You love talking about wine, having a bottle to pop open for special occasions, and impressing people cultured enough to know about it with your rarer bottles. You normally have the means to get the bottles you really want, but a certain rival wine collector always manages to swipe the very best ones out from under you with his seemingly infinite funds, and he never sells. Tonight's event is a charity auction in honor of the recently deceased, world renowned chef, Rigatoni Alfredo, and you've heard that a particularly magnificent bottle of wine will be up for bid. Maybe this is the night your luck turns around?
 
 ## Relationships
 ---

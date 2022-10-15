@@ -1,6 +1,6 @@
 # Name: Ziti Alfredo
 # Role: Second Child
-# Played By: Tom Tau
+# Played By: Tom Tow
 
 ## Description
 ---

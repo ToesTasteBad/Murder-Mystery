@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You are a realtor who has managed to break into the wealthy crowd and have been selling high commission homes for a number of years. Tonights event is to commemorate the death of world renowned chef, Rigatoni Alfredo. Being the well connected individual you are, you managed to snag an invitation to the event, which you've heard is an auction of sorts. You are hoping that perhaps his decendants are trying to sell his property and are still looking for a realtor to help them out! In addition, you've had a number of clients express interest in the mansion that the party is taking place at and perhaps tonight you can sweet talk the host into naming his price!
+You are a realtor who has managed to break into the wealthy crowd and have been selling high commission homes for a number of years. Tonight's event is to commemorate the death of world renowned chef, Rigatoni Alfredo. Being the well connected individual you are, you managed to snag an invitation to the event, which you've heard is an auction of sorts. You are hoping that perhaps his decendants are trying to sell his property and are still looking for a realtor to help them out! In addition, you've had a number of clients express interest in the mansion that the party is taking place at and perhaps tonight you can sweet talk the host into naming his price!
 
 ## Relationships
 ---

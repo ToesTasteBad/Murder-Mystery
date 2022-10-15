@@ -4,14 +4,14 @@
 
 ## Description
 ---
-You are the city health inspector.  As a result you're familiar with many of the folks in the restraunt industry, and they are frequently sucking up to you.  You're hoping to avoid that as much as possible tonight, but who knows with these people.  You've also heard Rigatoni's Protege, Puck, will be taking over Rigatoni's now that he has passed away, and need to make sure he's aware of your high standards.
+You are the city health inspector. As a result you're familiar with many of the folks in the restraunt industry, who treat you with differing levels of respect. Tonight's event is to commemorate the death of Rigatoni Alfredo. He was a good man with high standards for health and safety. You've heard Rigatoni's Protege, Puck, will be taking over Rigatoni's now that he has passed away, and need to make sure he's aware of your high standards.
 
 ## Relationships
 ---
-- [[Lawyer|Milo Steinwell - Lawyer]]  - Your Husband! He's helping manage the estate of the late chef Rigatoni Alfredo
-- [[Vinter|Giovanni Bishop - Vinter]]  - One of your golfing trio, you three used to catch up on the course every week, but this season he's been too busy at the vinyard to get out at all.  Hopefully you can catch up some tonight
+- [[Lawyer|Milo Steinwell - Lawyer]]  - Your Husband! He's helping manage the estate of the late chef Rigatoni Alfredo.
+- [[Vinter|Giovanni Bishop - Vinter]]  - One of your golfing trio, you three used to catch up on the course every week, but this season he's been too busy at the vinyard to get out at all. Hopefully you can do some catching up tonight.
 - [[Food Critic|Harvey Davenport - Food Critic]]  - The other member of your golfing trio, you two are always discussing the latest food related gossip.
-- [[Franchise Owner|Darren Kaufman - Franchise Owner]] - Owner of WcRonald's, a huge fast food chain.  You've cost him thousands at this point in health and safety lawsuits, but the standards at his restruants just never seem to improve.  He's probably not too happy with you, but you're just doing your job (and getting some juicy food horror stories).
+- [[Franchise Owner|Darren Kaufman - Franchise Owner]] - Owner of WcRonald's, a huge fast food chain. You've cost him thousands at this point in health and safety lawsuits, but the standards at his restaurants just never seem to improve.  He's probably not too happy with you, but you're just doing your job (and getting some juicy food horror stories).
 
 
 ## Tasks
