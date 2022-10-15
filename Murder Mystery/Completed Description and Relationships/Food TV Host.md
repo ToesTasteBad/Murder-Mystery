@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You are the TV Host of the TV show Jodi's Kitchen. You've inspired and taken inspiration from the greatest chefs in the city and are very well respected. You are a bit famous around here! You try not to let it go to your head, but that is easier said than done! Tonight's event is an auction for your dear friend and colleague, reknown chef Rigatoni Alfredo. Some of Rigatoni's most prized possessions are up for bid and you are hoping to take a home a momento of your dear friend. You are also hoping to do an upcoming segment of your show on him and are hoping to get some information on what dishes of his you should do on your show.
+You are the TV Host of the TV show Jodi's Kitchen. You've inspired and taken inspiration from the greatest chefs in the city and are very well respected. You are a bit famous around here! You try not to let it go to your head, but that is easier said than done! Tonight's event is an auction for your dear friend and colleague, reknown chef Rigatoni Alfredo. Some of Rigatoni's most prized possessions are up for bid and you are hoping to take a home a momento of your dear friend.
 
 ## Relationships
 ---
