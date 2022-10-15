@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You are the city health inspector.  As a result you're familiar with many of the folks in the restraunt industry, and they are frequently sucking up to you.  You're hoping to avoid that as much as possible tonight, but who knows with these people.  You've also heard Rigatoni's Protege, Puck, will be taking over Rigatoni's now that he has passed away, and need to make sure he's aware of your high standards.
+You are the city health inspector.  As a result you're familiar with many of the folks in the restraunt industry, and they are frequently sucking up to you.  You're hoping to avoid that as much as possible tonight at the auction for the late chef Rigantoni Alfredo, but who knows with these people.  You've also heard Rigatoni's Protege, Puck, will be taking over Rigatoni's now that he has passed away, and need to make sure he's aware of your high standards.
 
 ## Relationships
 ---
