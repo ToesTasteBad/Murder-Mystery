@@ -12,3 +12,22 @@ You are the host of the hit TV cooking show, Jodi's Kitchen. You've inspired and
 - [[Celebrity|Sophia Bird - Celebrity]] - Sophia bird is very well liked and you know that if you can convince her to come on your show, it will be a big boost to your ratings. You've reached out many times and she keeps refusing, but you are confident you can convince her otherwise!
 - [[Restaurant Owner|Erik Howell - Restaurant Owner]] - You two are currently dating!
 - [[Sommelier|Anton Sherman - Sommelier]] - He has reached out to you about coming on your show to do an epidose all about wine. You aren't sure how you feel about it, but Anton is an old friend so you're struggling with what to say.
+
+## Tasks
+___
+- ### Pre-Auction Tasks: 
+	- task1:  If Anton approaches asking about coming on your show, politely say you need more time to think about it.
+	- task2: Give a compliment to Sophia. Perhaps flattering her will wear her down into saying yes!
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!

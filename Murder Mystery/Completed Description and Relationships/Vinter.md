@@ -21,6 +21,7 @@ ___
 	- task2: If approached by Rueben politely inform him your Devoux is still not for sale.
 	- task3:  After inspecting the bottle, approach Gregor and tell him to not bid on the bottle, its not worth his time.
 	- task4: See if you can convince Harvey to also say something to Gregor about not bidding on the wine.
+	- task5: If you are really up to it, see if you can convince Poppy of the same thing as well!
 - ### Round 1 Tasks:
 	- task1
 	- task2

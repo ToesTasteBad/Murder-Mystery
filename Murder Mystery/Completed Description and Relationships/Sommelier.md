@@ -17,8 +17,8 @@ You are a professional wine taster, and your reviews are some of the most truste
 ___
 - ### Pre-Auction Tasks: 
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about.
-	- task2:  
-	- task3:  
+	- task2:  Speak to Harvey about the new column you are starting. Suggest that the first place to review should be Rigatoni's old place that puck has now taken over. To help the lad get a good start.
+	- task3:  Speak to Jodi and ask if she has thought any more about doing a wine episode together.
 - ### Round 1 Tasks:
 	- task1
 	- task2
