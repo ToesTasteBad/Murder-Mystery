@@ -8,7 +8,6 @@ You own what is indisputably the finest vineyard in the state. Tonight's event i
 
 ## Relationships
 ---
-<<<<<<< HEAD
 - [[Art Collector|Rueben Barlow - Art Collector]]  - You are in possession of an original Devoux. It is a prized piece of your collection and you have no intention of parting with it, though you know Rueben has been vying to get it off you for a while now.
 - [[Wine Collector|Gregor Toussaint - Wine Collector]] - Gergor has been an esteemed customer of yours for a while. You've sold many expensive bottles to him over the years and you've developed quite the relationship. He is one of your top investors at the vineyard.
 - [[Sommelier|Anton Sherman - Sommelier]] - You have been in business with Anton for a number of years now. He stamps his signature on the labels of the bottles he most recommends. These bottles always sell the best. However, costs at the vineyard are running high and you are looking for ways to save money. You've informed Anton you will be cutting his kick back percentage.
@@ -18,10 +17,11 @@ You own what is indisputably the finest vineyard in the state. Tonight's event i
 ## Tasks
 ___
 - ### Pre-Auction Tasks: 
-	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. 
+	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. If asked, you are definetly interested, but unsure if you'll bid.
 	- task2: If approached by Rueben politely inform him your Devoux is still not for sale.
 	- task3:  After inspecting the bottle, approach Gregor and tell him to not bid on the bottle, its not worth his time.
 	- task4: See if you can convince Harvey to also say something to Gregor about not bidding on the wine.
+	- task5: If you are really up to it, see if you can convince Poppy of the same thing as well!
 - ### Round 1 Tasks:
 	- task1
 	- task2

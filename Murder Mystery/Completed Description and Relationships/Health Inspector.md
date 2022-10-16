@@ -1,6 +1,6 @@
 # Name: Poppy Steinwell
 # Role: Health Inspector
-# Played By: Ella Steinwell
+# Played By: Ella Evers
 
 ## Description
 ---
@@ -17,9 +17,8 @@ You are the city health inspector. As a result, you're familiar with many of the
 ## Tasks
 ___
 - ### Pre-Auction Tasks: 
-	- task1
-	- task2
-	- task3
+	- task1: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree.
+	- task2: Again if approached, mention who this was to Milo and comment that you thought it a bit strange.
 - ### Round 1 Tasks:
 	- task1
 	- task2

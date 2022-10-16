@@ -17,9 +17,9 @@ You are a well-respected and widely published food critic. This event is to comm
 ## Tasks
 ___
 - ### Pre-Auction Tasks: 
-	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about.
-	- task2:
-	- task3:
+	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's an amazing bottle! You'll definetly be bidding.
+	- task2: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree. You have your eye on that bottle as well!
+	- task3: Speak to Anton about this new column you are starting. See if he has any new ideas.
 - ### Round 1 Tasks:
 	- task1
 	- task2

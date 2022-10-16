@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You are the owner of WcRonald's, an international fast food chain. This town's elite chefs and restaurant owners don't respect your methods, but far more people have enjoyed your food than all of theirs put together. Tonight's event is to honor the great chef Rigatoni Alfredo who has recently passed. The event is an auction in which some of his most prized possessions are up for sale. You tried convincing him to partner up several years ago (his name would sell *a lot* of food) but he was never interested. Now that his son has taken over however, there might be a chance. You've already spoken briefly and you're hoping to get down to brass tacks at tonight's event.
+You are the owner of WcRonald's, an international fast food chain. This town's elite chefs and restaurant owners don't respect your methods, but far more people have enjoyed your food than all of theirs put together. Tonight's event is to honor the great chef Rigatoni Alfredo who has recently passed. The event is an auction in which some of his most prized possessions are up for sale. You tried convincing him to partner up, by adding his name on a new menu item, several years ago (his name would sell *a lot* of food) but he was never interested. Now that his son has taken over however, there might be a chance. You've already spoken briefly and you're hoping to get down to brass tacks at tonight's event.
 
 ## Relationships
 ---
