@@ -17,9 +17,8 @@ As a famous wine collector, you've made both friends and enemies in the world of
 ## Tasks
 ___
 - ### Pre-Auction Tasks: 
-	- task1:  
-	- task2:  
-	- task3:  
+	- task1:  Inpsect the bottle of wine being auctioned. If asked your thoughts, simply say it is a very nice bottle, we'll have to see how I feel once the bidding starts.
+	- task2:  If approached by anyone asking you not to bid, be curtious and say if the bids are generous enough perhaps I will consider that.
 - ### Round 1 Tasks:
 	- task1
 	- task2

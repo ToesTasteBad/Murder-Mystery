@@ -15,9 +15,9 @@ For the last several decades, you've been a relatively popular crime author, but
 ## Tasks
 ___
 - ### Pre-Auction Tasks: 
-	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about.
-	- task2:  
-	- task3:  
+	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's a bottle you've been wanting for a while and would very much like to win it!
+	- task2:  Speak to Gregor and try to get a feel for how interested in this bottle he is.
+	- task3:  Keep an eye out for others who look interested in the bottle. If your up to it, try asking them what their thoughts are to gauge their interest.
 - ### Round 1 Tasks:
 	- task1
 	- task2
