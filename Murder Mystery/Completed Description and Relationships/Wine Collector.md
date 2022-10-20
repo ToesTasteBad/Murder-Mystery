@@ -12,7 +12,9 @@ As a famous wine collector, you've made both friends and enemies in the world of
 - [[Rival Wine Collector|Daniel Pierce - Rival Wine Collector]]  - You've clashed at many a wine auction in the past. Pierce has won bottles from you here and there, but when you're truly determined to acquire a particularly fine specimen, you always come out on top, no matter how much he bids you up.
 - [[Vinter|Giovanni Bishop - Vinter]]  - You've often considered yourself lucky to live so near to one who makes such fine wines. Indeed, his vintages make up a sizeable fraction of your collection, and you consider them to be reliable go-to's. You are one of Giovanni's top investors.
 - [[Realtor|Penelope Hunt - Realtor]]  - She's recently been hounding you to sell your mansion. She must have received quite the offer, but you don't plan on moving anytime soon.
-- [[Eldest Child|Orzo Alfredo - Eldest Child]]  - Rigatoni's son. You never knew him that well, but loved dining at his father's restaurant. He's asked you to host tonight's event, and you were happy to oblige.
+- [[Eldest Child|Orzo Alfredo - Eldest Child]]  - Rigatoni's son. You never knew him that well, but loved dining at his father's restaurant. He's asked you to host tonight's event, and you were happy to oblige
+- [[Restaurant Owner|Erik Howell - Restaurant Owner]]  - He's expressed a great interest in one of your finer bottles. He's been pestering you to share it with him, but you have no plans to do so.
+
 
 ## Tasks
 ___

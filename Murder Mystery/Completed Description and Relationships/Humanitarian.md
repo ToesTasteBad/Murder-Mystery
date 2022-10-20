@@ -12,3 +12,23 @@ You are an accomplished humanitarian and the director of the non-profit, Fine Cu
 - [[General|Vladimir Grey - General]]  - Your father! Needless to say, you have differing views.
 - [[Author|Rebecca Ramos - Author]]  - A good friend from your youth. She often jokes that you've inspired some of her characters.
 - [[Secretary|Rakeeta Brown - Secretary]]  - Rakeeta used to be your secretary at the non-profit. You got along fabulously, but she left when she was offered better pay somewhere else. You were happy for her, but you've never really forgiven her for leaving you either. There's been a bit of a rift between you two since.
+
+## Tasks
+___
+- ### Pre-Auction Tasks: 
+	- Catch up with [[Author|Rebecca Ramos]]! Tell her you've been sad to see she hasn't been writing as much. You read all of her books.
+	- Say hello to [[General|Vladimir Grey]], your father. It would be weird not to acknowledge each other.
+	- 
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!

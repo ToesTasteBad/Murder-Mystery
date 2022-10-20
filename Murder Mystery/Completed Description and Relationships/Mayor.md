@@ -9,6 +9,8 @@ You are the mayor of the city and are very well connected. To be honest, you ach
 ## Relationships
 ---
 - [[Lawyer|Milo Steinwell - Lawyer]]  - A fine lawyer. He's defended you in the past, and had the good sense to keep those cases to himself during the election.
-- [[Restaurant Owner|Erik Howell - Restaurant Owner]]  - The owner of La Bouffe, one of the city's best restaurants.
 - [[Detective|Keith Hartley - Detective]]  - Helped you dig up some dirt on your opponent during the election and get it out into the public anonymously.
 - [[Senator|Stephen Ramos - Senator]]  - He could be your ticket to even greater political heights!
+- [[Vinter|Giovanni Bishop - Vinter]]  - You used to golf all the time, but he's been busy this season.
+- [[Health Inspector|Poppy Steinwell - Health Inspector]]  - Another golfing buddy, and a fine and upstanding local businessperson.
+- [[Food Critic|Harvey Davenport - Food Critic]]  - The last member of your golf crew.

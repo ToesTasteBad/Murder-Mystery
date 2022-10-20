@@ -13,8 +13,8 @@ You are the owner of one of the best restaurants in the city, La Bouffe. Tonight
 - [[Health Inspector|Poppy Steinwell - Health Inspector]]  - Poppy always seems eager to find something wrong with your restaurant, but you keep the place fit as a fiddle and clean as a whistle.
 - [[Bartender|Frank Larsen - Bartender]]  - He used to work with Alfredo, but was apparently less interested in working with his protege. When he asked if you were hiring, you leapt at the opportunity.
 - [[Second Child|Ziti Alfredo - Second Child]]  - Rigatoni's younger son. He seems like a good enough guy.
-- [[Mayor|James Hudson - Mayor]]  - You're a supporter of his.
 - [[Food TV Host|Jodi Souvid - Food TV Host]]  - You're dating!
+- [[Wine Collector|Gregor Toussaint - Wine Collector]]  - Is in possession of a '66 Boisson Délicieuse, rumored to be a trancendent vintage. You know he's unlikely to share, but you can't help but bring it up when you run into each other.
 
 ## Tasks
 ___
