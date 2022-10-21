@@ -18,9 +18,11 @@ As a famous wine collector, you've made both friends and enemies in the world of
 
 ## Tasks
 ___
-- ### Pre-Auction Tasks: 
+- ### Round 1: 
 	- task1:  Inpsect the bottle of wine being auctioned. If asked your thoughts, simply say it is a very nice bottle, we'll have to see how I feel once the bidding starts.
 	- task2:  If approached by anyone asking you not to bid, be curtious and say if the bids are generous enough perhaps I will consider that.
+	- task3: If approached by Penelope Hunt, tell her you have no interest in selling, and that your patience with her is running thin.
+	- task4: If asked about your '66 Boisson, concede that it is a special occasion, and that could be convinced to have a drink in Rigatoni's honor.
 - ### Round 1 Tasks:
 	- task1
 	- task2

@@ -14,3 +14,11 @@ Tonight's event is to commemorate the death of Rigatoni Alfredo, the world's gre
 - [[Eldest Child|Orzo Alfredo - Eldest Child]]  - Your mentor's eldest son. Despite all the time you spent with his father, you haven't seen him around much. He seems to be more active in his father's death than he was in his life.
 - [[Second Child|Ziti Alfredo - Second Child]]  - Your mentor's younger son. Now here's a man who appreciates cooking. You get the feeling he would have liked his father's mentorship if only he had more talent for cooking.
 - [[Bartender|Frances Larsen - Bartender]]  - He was the bartender at Alfredo's. He seemed to do a good job and got along well with your mentor, but when Rigatoni passed, Frank left to work at La Bouffe shortly thereafter.
+
+## Tasks
+___
+- ### Round 1: 
+	- task1: Confide in Ziti Alfredo that Frank leaving the restaurant when you took over was hurtful. It's like he doesn't have confidence in your cooking.
+- ### Round 2:
+	- task1: If asked if you'll be bidding on the knife, wax poetic. "You know, it's been said that a chef's contains a part of his very soul. Would you bid on a soul? To use it for anything other than cooking is sacrilege."
+	- taskk2: Make sure you attend the evening's second auction.

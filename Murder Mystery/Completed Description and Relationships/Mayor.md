@@ -14,3 +14,21 @@ You are the mayor of the city and are very well connected. To be honest, you ach
 - [[Vinter|Giovanni Bishop - Vinter]]  - You used to golf all the time, but he's been busy this season.
 - [[Health Inspector|Poppy Steinwell - Health Inspector]]  - Another golfing buddy, and a fine and upstanding local businessperson.
 - [[Food Critic|Harvey Davenport - Food Critic]]  - The last member of your golf crew.
+
+## Tasks
+___
+- ### Round 1: 
+	- task1:  If someone tell's you they've been dying to try Gregor's '66 Boisson, suggest that you may be able to help convince him to pop open the bottle. It is a special occasion after all. Go to Gregor together, and ask about the bottle.
+- ### Round 2:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!

@@ -18,15 +18,14 @@ ___
 - ### Pre-Auction Tasks: 
 	- Talk with [[Senator|Stephen]] about the bartender situation. Tell him that leaking state secrets to random bartenders could be very bad for his political future.
 	- If [[Franchise Owner|Darren Kaufman]] speaks to you about one of your characters being based on him, assure him that your works are fictional and the characters within them aren't based on any real people, living or dead.
-	- Catch up with [[Humanitarian|Elizabeth Cain]]! Tell her you've heard about the success of her non-profit.
 - ### Round 1 Tasks:
-	- task1
+	- task1: Confide in Elizabeth Cain that Stephen has let some sensitive information slip to Frank Larsen. You're concerned about the effect it could have on your husband's career.
 	- task2
 	- task3
 - ### Round 2 Tasks:
-	- task1
+	- task1: Verify that Frank Larsen won't let anything slip. Ask him if he's as discerning with his conversations as he is with his cocktails.
 	- task2
-	- task3
+	- task3: Make sure you attend the evening's second auction.
 - ### Round 3 Tasks:
 	- task1
 	- task2

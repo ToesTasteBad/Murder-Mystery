@@ -12,3 +12,19 @@ By day, you're a senator for the state of Minnesota. By night, an enjoyer of the
 - [[Bartender|Frances Larsen - Bartender]]  - You may have recently let slip some insider secrets while enjoying his fine cocktails. You're hoping to bribe him to keep quiet at the party.
 - [[General|Vladimir Grey - General]]  - You have a vote coming up on the mlitary budget for the upcoming year. It's close, and your vote could end up slashing the military budget, or bolstering it. General Grey has been pestering you to "show a little generosity" for the last few weeks.
 - [[Philanthropist|Nathan Cain - Philanthropist]]  - Nathan Cain has been a long time donator to your campaign!
+
+## Tasks
+___
+- ### Round 1:
+	- task1: Approach Frank Larsen with a bribe. If he rejects it, insist. Try not to let anyone else find out.
+	- task2
+	- task3
+- ### Round 2:
+	- task1: 
+	- task2
+	- task3: Make sure you attend the evening's second auction.
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!

@@ -9,15 +9,15 @@ For the last several decades, you've been a relatively popular crime author, but
 ## Relationships
 ---
 - [[Wine Collector|Gregor Toussaint - Wine Collector]]  - Your rival, and the host of tonight's party. He's too rich for his own good, and he always manages to outbid you on the very best bottles. You get some satisfaction from pushing his bids up to extravagant amounts.
-- [[Art Collector|Ruben Barlow - Art Collector]]  - A dear friend of yours. You have different tastes, but get along quite well. You'll often share your art and wine with one another.
+- [[Art Collector|Reuben Barlow - Art Collector]]  - A dear friend of yours. You have different tastes, but get along quite well. You'll often share your art and wine with one another. In order to bid on tonight's bottle, you sold a piece of art that Reuben had given you as a gift.
 - [[Detective|Keith Hartley - Detective]]  - Not all rare bottles of wine are simply up for auction. You've had Hartley snoop out some fine specimens in the past.
 
 ## Tasks
 ___
-- ### Pre-Auction Tasks: 
+- ### Round 1:
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's a bottle you've been wanting for a while and would very much like to win it!
-	- task2:  Speak to Gregor and try to get a feel for how interested in this bottle he is.
-	- task3:  Keep an eye out for others who look interested in the bottle. If your up to it, try asking them what their thoughts are to gauge their interest.
+	- task2:  Speak to [[Wine Collector|Gregor]] and try to get a feel for how interested in this bottle he is.
+	- task3:  Confide in [[Detective|Keith Hartley]] that you recently sold Peinture Célèbre, a painting Reuben had given you as a gift. You're hoping that you can use the money to win tonight's bottle.
 - ### Round 1 Tasks:
 	- task1
 	- task2

@@ -18,12 +18,11 @@ You are the owner of one of the best restaurants in the city, La Bouffe. Tonight
 
 ## Tasks
 ___
-- ### Pre-Auction Tasks: 
-	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's a nice bottle. You'll most likely bid.
-	- task2:  Speak to James and let him know you think he's doing a good job.
-	- task3:  Speak to Arthur and tell him he shouldn't stay too late. He needs to always be at his best if he wants to take number 1.
-- ### Round 1 Tasks:
-	- task1
+- ### Round 1: 
+	- task2:  Say to [[Mayor|Jim Hudson]] that you've been dying to try Gregor's '66 Boisson, but that the old miser has never been interested in sharing.
+	- task3:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's a nice bottle. You'll most likely bid.
+- ### Round 2:
+	- task1: Tell Arthur that Frank is here to stay, and Arthur needs to figure out how to work with him.
 	- task2
 	- task3
 - ### Round 2 Tasks:

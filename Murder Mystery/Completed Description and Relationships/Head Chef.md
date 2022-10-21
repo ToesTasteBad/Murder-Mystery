@@ -15,14 +15,15 @@ You are the head chef at La Bouffe, one of the finest restaurants in the city. T
 
 ## Tasks
 ___
-- ### Pre-Auction Tasks: 
+- ### Round 1: 
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's a good bottle, you'll probably bid though you don't expect to win given the competition.
 	- task2: Speak to Harvey and comment that you look forward to reading his updated reviews when he gets around to them.
 	- task3: Speak to Puck and offer your condolences.
-- ### Round 1 Tasks:
-	- task1
+	- task4: Confide in [[Health Inspector|Poppy Steinwell]] that ever since Frank started at La Bouffe, it's been impossible to convince him to cooperate on a menu. You're reaching your wit's end.
+- ### Round 2:
+	- task1: If Erik Howell bugs you about working with Frank Larsen, prove that you're making an effort by showing him the recipe card you came up with to pair with one of his cocktails.
 	- task2
-	- task3
+	- task3: Make sure you attend the evening's second auction.
 - ### Round 2 Tasks:
 	- task1
 	- task2

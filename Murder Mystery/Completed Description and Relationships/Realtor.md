@@ -13,3 +13,21 @@ You are a realtor who has managed to break into the wealthy crowd and have been 
 - [[Wine Collector|Gregor Toussaint - Wine Collector]]  - *Extreme* interest has been expressed in Toussaint's mansion. You've mentioned to him before that the market could be quite generous to him if he were willing to sell, but he seemed uninterested.
 - [[Mayor|James Hudson - Mayor]]  - You're dating!
 - [[Lawyer|Milo Steinwell - Lawyer]]  - You've gone down some pretty different career paths since college, but you used to be good friends!
+
+## Tasks
+___
+- ### Round 1:
+	- task1: Approach Gregor about selling his mansion. Tell him that market's never been hotter, and that you could both make a pretty penny if he acts now.
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 2 Tasks:
+	- task1
+	- task2
+	- task3
+- ### Round 3 Tasks:
+	- task1
+	- task2
+	- task3
+	- Identify the murderer(s)!

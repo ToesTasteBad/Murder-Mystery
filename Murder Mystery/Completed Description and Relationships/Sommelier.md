@@ -15,12 +15,13 @@ You are a professional wine taster, and your reviews are some of the most truste
 
 ## Tasks
 ___
-- ### Pre-Auction Tasks: 
+- ### Round 1: 
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It is quite the specimen and you would very much like to win it!
-	- task2:  Speak to Harvey about the new column you are starting. Suggest that the first place to review should be Rigatoni's old place that puck has now taken over. To help the lad get a good start.
+	- task2:  Speak to Harvey about the new column you are starting. Suggest that the first place to review should be Rigatoni's old place that Puck has now taken over. To help the lad get a good start.
 	- task3:  Speak to Jodi and ask if she has thought any more about doing a wine episode together.
-- ### Round 1 Tasks:
-	- task1
+	- task4: Tell [[SOMEONE]] your thoughts on Gregor's relationship with wine. Money and interest do NOT make up for a weak palette.
+- ### Round 2:
+	- task1 TODO Get article out there that makes it clear he would never poison wine.
 	- task2
 	- task3
 - ### Round 2 Tasks:

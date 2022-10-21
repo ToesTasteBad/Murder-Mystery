@@ -19,12 +19,12 @@ ___
 	- Catch up with [[Author|Rebecca Ramos]]! Tell her you've been sad to see she hasn't been writing as much. You read all of her books.
 	- Say hello to [[General|Vladimir Grey]], your father. It would be weird not to acknowledge each other.
 	- 
-- ### Round 1 Tasks:
+- ### Round 1:
 	- task1
 	- task2
 	- task3
-- ### Round 2 Tasks:
-	- task1
+- ### Round 2:
+	- task1: Give Puck Augustini your condolences. You're sure he and Rigatoni must have been close. Ask if he'll be bidding on the knife.
 	- task2
 	- task3
 - ### Round 3 Tasks:
