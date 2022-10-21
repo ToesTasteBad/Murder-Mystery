@@ -1,4 +1,4 @@
-# Name: James Hudson
+# Name: James "Jim" Hudson
 # Role: Mayor
 # Played By: Brady Rau
 
@@ -14,3 +14,4 @@ You are the mayor of the city and are very well connected. To be honest, you ach
 - [[Vinter|Giovanni Bishop - Vinter]]  - You used to golf all the time, but he's been busy this season.
 - [[Health Inspector|Poppy Steinwell - Health Inspector]]  - Another golfing buddy, and a fine and upstanding local businessperson.
 - [[Food Critic|Harvey Davenport - Food Critic]]  - The last member of your golf crew.
+- [[Realtor|Penelope Hunt - Realtor]] - You're dating!
