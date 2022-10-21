@@ -25,12 +25,7 @@ ___
 	- task1: Tell Arthur that Frank is here to stay, and Arthur needs to figure out how to work with him.
 	- task2
 	- task3
-- ### Round 2 Tasks:
+- ### Round 3:
 	- task1
 	- task2
 	- task3
-- ### Round 3 Tasks:
-	- task1
-	- task2
-	- task3
-	- Identify the murderer(s)!

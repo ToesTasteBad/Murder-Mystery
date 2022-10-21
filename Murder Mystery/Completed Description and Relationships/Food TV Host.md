@@ -27,7 +27,7 @@ ___
 	- task2
 	- task3
 - ### Round 3 Tasks:
-	- task1
+	- task1: If Darren Kaufman tells you about his business woes, suggest that you two could form some sort of partnership instead.
 	- task2
 	- task3
 	- Identify the murderer(s)!

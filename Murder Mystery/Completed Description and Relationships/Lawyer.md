@@ -13,3 +13,12 @@ You are a lawyer and are well acquainted with most if not all of the people at t
 - [[Eldest Child|Orzo Alfredo - Eldest Child]]  - You are helping him manage his father's estate. (What a multi-talented lawyer you are!) He's hinted that this auction could end up being quite profitable for you. 
 - [[Health Inspector|Poppy Steinwell - Health Inspector]]  - Your wife!
 - [[Secretary|Rakeeta Brown - Secretary]]  - Rakeeta is the Secretary who works at your office. She is nice and does her job well. You two have a very cordial work relationship.
+
+## Tasks
+___
+- ### Round 1:
+	- task1: If asked about the bank account for tonight's auction, assure them that everything's squared away.
+- ### Round 1 Tasks:
+	- task1
+	- task2
+	- task3

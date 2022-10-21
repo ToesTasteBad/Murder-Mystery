@@ -12,3 +12,16 @@ You are the owner of WcRonald's, an international fast food chain. This town's e
 - [[Eldest Child|Orzo Alfredo - Eldest Child]]  - Rigatoni was never interested in going into business, but Orzo, who now has claim to the family name, might be a different story.
 - [[Author|Rebecca Ramos - Author]]  - You used to be a fan of her work until she blatantly wrote a character inspired by you into her stories. And not a very flattering one at that.
 - [[Secretary|Rakeeta Brown - Secretary]] - Rakeeta fell at one of your restaurants two years ago and had the gall to sue you over it! The court fees and time were getting to be too much and so you ended up settling just to get it over with. It cost you an arm and a leg.
+
+## Tasks
+___
+- ### Round 1: 
+	- task1: Mention to Orzo Alfredo that you'd be interested in using his father's name on your menu. It could be lucrative for both of you.
+- ### Round 2:
+	- task1: If someone tell you something about your partnership with Orzo, confront him.
+	- task2
+	- task3
+- ### Round 3:
+	- task1: Order a Midori Sour from Frank Larsen's secret menu.
+	- task2: Complain to Jodi Souvid about Orzo's rude behavior.
+	- task3: If another business opportunity is presented to you, brag about it to everyone who will listen.

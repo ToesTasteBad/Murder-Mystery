@@ -4,7 +4,7 @@
 
 ## Description
 ---
-Tonight's event is to commemorate your father, Rigatoni Alfredo, who recently passed away. You were very close. He taught you how to cook, and even though you didn't have the talent to do it professionally, you enjoy making his recipes for your family on a daily basis. Your older brother, Orzo Alfredo, is in charge of managing your father's estate, and is the organizer of tonight's event. He and your father didn't get along, and you don't often see eye to eye. He's auctioning off your father's prized possessions for charity, which you have mixed feelings about.
+Tonight's event is to commemorate your father, Rigatoni Alfredo, who recently passed away. You were very close. He taught you how to cook, and even though you didn't have the talent to do it professionally, you enjoy making his recipes for your family on a daily basis. Your older brother, Orzo Alfredo, is in charge of managing your father's estate, and is the organizer of tonight's event. He and your father didn't get along, and you don't often see eye to eye. He decided to auction off your father's prized possessions for charity, including his chef knife, which you weren't happy about.
 
 ## Relationships
 ---
@@ -12,3 +12,16 @@ Tonight's event is to commemorate your father, Rigatoni Alfredo, who recently pa
 - [[Eldest Child|Orzo Alfredo - Eldest Child]]  - Your older brother. He was never interested in the family business and hasn't been around much. You had assumed that managing your father's estate would fall to you, but it's good to see him so gung-ho.
 - [[Protege|Puck Augustini - Protege]]  - Your father's protege. Maybe that could have been you if you'd had a bit more talent. He took over your father's restaurant when he passed.
 - [[Restaurant Owner|Erik Howell - Restaurant Owner]]  - The owner of La Bouffe, Alfredo's main competition in town.
+
+## Tasks
+___
+- ### Round 1: 
+	- task1: Lament to Reuben Barlow that your brother, Orzo, isn't treating your father's knife with the respect you would have. You would have preferred to keep it in the family, but you don't have the funds to win it in tonight's bid.
+- ### Round 2:
+	- task1:
+	- task2
+	- task3: Instead of attending the second auction, stay upstairs and admit to [[SOMEONE]] that the knife being sold isn't actually your father's. You couldn't bare to see it fall into the hands of some stranger, so you had swapped it out a few days back.
+- ### Round 3:
+	- task1: Order a Midori Sour from Frank Larsen's secret menu.
+	- task2
+	- task3

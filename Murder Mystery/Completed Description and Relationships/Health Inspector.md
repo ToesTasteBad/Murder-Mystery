@@ -21,12 +21,12 @@ ___
 	- task1: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree.
 	- task2: Again if approached, mention who this was to Milo and comment that you thought it a bit strange.
 - ### Round 1 Tasks:
-	- task1
+	- task1: Overhear that Darren Kaufman and Orzo Alfredo are considering a business partnership (or at least pretend you did).
 	- task2
 	- task3
 - ### Round 2 Tasks:
-	- task1
-	- task2
+	- task1: Ask Orzo Alfredo if he's really planning on going into business with such an unscrupulous businessman as Darren Kaufman.
+	- task2: Relay Orzo's answer to Harvey Davenport. This is some hot gos.
 	- task3
 - ### Round 3 Tasks:
 	- task1

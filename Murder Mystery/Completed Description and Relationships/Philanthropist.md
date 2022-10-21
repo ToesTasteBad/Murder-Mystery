@@ -12,3 +12,16 @@ You are a prominent business man who has made his fortune through oil. Your oil 
 - [[Realtor|Penelope Hunt - Realtor]] - You've been selling properties like crazy, and Penelope has been helping you do that.
 - [[Senator|Stephen Ramos - Senator]] - You're one of his campaign's top donators, but your recent change of heart has made you decide to take your money out of politics.
 - [[Humanitarian|Elizabeth Cain - Humanitarian]] - She's you wife!
+
+## Tasks
+___
+- ### Round 1: 
+	- task1: 
+- ### Round 2:
+	- task1:
+	- task2: If you recieve information about tonight's charity, confront Milo Steinwell about it.
+	- task3: 
+- ### Round 3:
+	- task1: Order a Midori Sour from Frank Larsen's secret menu.
+	- task2: At 9:00, meet Orzo Alfredo in Sam's office.
+	- task3

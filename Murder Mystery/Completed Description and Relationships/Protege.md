@@ -19,6 +19,11 @@ Tonight's event is to commemorate the death of Rigatoni Alfredo, the world's gre
 ___
 - ### Round 1: 
 	- task1: Confide in Ziti Alfredo that Frank leaving the restaurant when you took over was hurtful. It's like he doesn't have confidence in your cooking.
+	- task2: Give Orzo Alfredo your condolences and thank him for putting tonight's event together.
 - ### Round 2:
 	- task1: If asked if you'll be bidding on the knife, wax poetic. "You know, it's been said that a chef's contains a part of his very soul. Would you bid on a soul? To use it for anything other than cooking is sacrilege."
-	- taskk2: Make sure you attend the evening's second auction.
+	- task2: Make sure you attend the evening's second auction.
+- ### Round 3:
+	- task1: Order a Midori Sour from Frank Larsen's secret menu.
+	- task2: At 9:00, give a toast upstairs in honor of Rigatoni Alfredo. Make sure to tell everyone that 9:00 was his favorite time of day.
+	- task3

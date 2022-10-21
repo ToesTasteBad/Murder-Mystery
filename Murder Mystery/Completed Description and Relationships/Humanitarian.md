@@ -20,12 +20,12 @@ ___
 	- Say hello to [[General|Vladimir Grey]], your father. It would be weird not to acknowledge each other.
 	- 
 - ### Round 1:
-	- task1
+	- task1: Ask Orzo Alfredo what charity tonight's event is for. Check it against your comprehensive charity list.
 	- task2
 	- task3
 - ### Round 2:
 	- task1: Give Puck Augustini your condolences. You're sure he and Rigatoni must have been close. Ask if he'll be bidding on the knife.
-	- task2
+	- task2: Warn Nathan Cain that the charity is fake.
 	- task3
 - ### Round 3 Tasks:
 	- task1
