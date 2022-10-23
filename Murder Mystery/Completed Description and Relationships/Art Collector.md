@@ -17,20 +17,16 @@ You are an art collector and proprieter of Gallery 16 on the West side of town. 
 
 ## Tasks
 ___
-- ### Pre-Auction Tasks: 
-	- task1:  Speak to Giovanni about his Devoux again. See if you can get him to name a price.
-	- task2:  Try to avoid Keith. No need to have him start asking questions this early.
-	- task3:  Give your condolences to Orzo and/or Ziti, and inquire about the painting you sold their father.
-- ### Round 1 Tasks:
-	- task1
-	- task2
+- ### Round 1:
+	- task1: Give your condolences to Ziti Alfredo, and inquire about the painting you sold their father.
+	- task2:
 	- task3
 - ### Round 2 Tasks:
-	- task1
+	- task1: Speak to Giovanni Bishop about his Devoux again. See if you can get him to name a price.
 	- task2
 	- task3
 - ### Round 3 Tasks:
-	- task1
+	- task1: Ask Daniel Pierce if he, as a member of the wine community, knows what Giovanni Bishop has against you.
 	- task2
 	- task3
 	- Identify the murderer(s)!

@@ -15,19 +15,15 @@ You are a designer of high end fashion, running your own label, Saville. By chan
 
 ## Tasks
 ___
-- ### Pre-Auction Tasks: 
+- ### Round 1:
+	- task1: Greet the lawyer, Milo Steinwell. Mention to him that if Rebecca Ramos doesn't pay you back soon, you may be needing his services in the near future.
+	- task2: Give heartfelt condolences to Puck Augustini and a curt greeting to his girlfriend, Blair Ashleigh.
+	- task3
+- ### Round 2:
 	- task1
 	- task2
 	- task3
-- ### Round 1 Tasks:
-	- task1
-	- task2
-	- task3
-- ### Round 2 Tasks:
-	- task1
-	- task2
-	- task3
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1
 	- task2
 	- task3

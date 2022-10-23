@@ -24,7 +24,7 @@ ___
 	- task3
 - ### Round 2:
 	- task1: If someone insinuates that you may be loose with customer secrets, give them the run around. It's insulting that they would imply such a thing.
-	- task2
+	- task2: If asked to run the wine bottle through a detective-o-matic in the coat closet, do so and and hand out the results.
 	- task3
 - ### Round 2 Tasks:
 	- task1

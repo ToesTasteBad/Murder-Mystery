@@ -17,7 +17,8 @@ You are a lawyer and are well acquainted with most if not all of the people at t
 ## Tasks
 ___
 - ### Round 1:
-	- task1: If asked about the bank account for tonight's auction, assure them that everything's squared away.
+	- task1: If asked about the bank account for tonight's auction, assure the asker that everything is squared away.
+	- task2: If complained to about Rebecca Ramos, offer that you may be able to help.
 - ### Round 1 Tasks:
 	- task1
 	- task2

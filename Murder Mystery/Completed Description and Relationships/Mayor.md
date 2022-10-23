@@ -20,6 +20,7 @@ You are the mayor of the city and are very well connected. To be honest, you ach
 ___
 - ### Round 1: 
 	- task1:  If someone tell's you they've been dying to try Gregor's '66 Boisson, suggest that you may be able to help convince him to pop open the bottle. It is a special occasion after all. Go to Gregor together, and ask about the bottle.
+	- task2: If Blair Ashleigh tells you about her recent success, congratulate her, and remind her not to forget where her career started! 
 - ### Round 2:
 	- task1
 	- task2

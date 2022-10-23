@@ -12,3 +12,14 @@ You are a detective for the city and significant other to [[Celebrity|Sophia Bir
 - [[Celebrity|Sophia Bird - Celebrity]]  - Your girlfriend! An accomplished actress.
 - [[Mayor|James Hudson - Mayor]]  - He had you dig up dirt on his competition during the last election. He likely wouldn't be mayor if it weren't for you.
 - [[Rival Wine Collector|Daniel Pierce - Rival Wine Collector]]  - He's had you snoop out some rare wines.
+
+## Tasks
+___
+- ### Round 1: 
+	- task1:
+- ### Round 2:
+	- task1: This death seems suspicious to you. You'd better be safe and run a check on the bottle. Bring the bottle to Frank Larsen, and tell him you need to run it through your detective-o-matic in the coat closet. Share the results with your fellow guests.
+- ### Round 3:
+	- task1
+	- task2
+	- task3

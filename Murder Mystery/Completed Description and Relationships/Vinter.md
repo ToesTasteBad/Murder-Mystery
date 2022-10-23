@@ -23,12 +23,8 @@ ___
 	- task3:  After inspecting the bottle, approach Gregor and tell him to not bid on the bottle, its not worth his time.
 	- task4: See if you can convince Harvey to also say something to Gregor about not bidding on the wine.
 	- task5: If you are really up to it, see if you can convince Poppy of the same thing as well!
-- ### Round 1 Tasks:
-	- task1
-	- task2
-	- task3
-- ### Round 2 Tasks:
-	- task1
+- ### Round 2:
+	- task1: If asked about selling your Devoux, make it clear that you aren't interested in selling.
 	- task2
 	- task3
 - ### Round 3 Tasks:

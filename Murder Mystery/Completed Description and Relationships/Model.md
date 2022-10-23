@@ -12,3 +12,15 @@ You're a model who's recently been gaining some extreme popularity. Tonight's ev
 - [[Art Collector|Reuben Barlow - Art Collector]]  - You wore a print of one of his pieces and got rave reviews. You're thinking of doing it again.
 - [[Celebrity|Sophia Bird - Celebrity]]  - You and Sophia were good friends before your modeling career took off. She is now a bit curt with you. You suspect she isn't happy someone else in town is stealing some of her spotlight.
 - [[Protege|Puck Agustini - Protege]] - You two are currently dating.
+
+## Tasks
+___
+- ### Round 1: 
+	- task1: If greeted by Diana Seville, TODO
+	- task2: Introduce yourself to the mayor, Jim Hudson. Tell him about your recent success and that you hope to see him at more parties like this in the future.
+- ### Round 2:
+	- task1: 
+	- task2: 
+	- task3: 
+- ### Round 3:
+	- task1: 

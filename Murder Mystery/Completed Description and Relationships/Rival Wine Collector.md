@@ -18,16 +18,11 @@ ___
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's a bottle you've been wanting for a while and would very much like to win it!
 	- task2:  Speak to [[Wine Collector|Gregor]] and try to get a feel for how interested in this bottle he is.
 	- task3:  Confide in [[Detective|Keith Hartley]] that you recently sold Peinture Célèbre, a painting Reuben had given you as a gift. You're hoping that you can use the money to win tonight's bottle.
-- ### Round 1 Tasks:
+- ### Round 2:
 	- task1
 	- task2
 	- task3
-- ### Round 2 Tasks:
-	- task1
+- ### Round 3:
+	- task1: If Reuben Barlow asks you about Giovanni Bishop, tell him you don't know anything about the man except that he makes good wine.
 	- task2
 	- task3
-- ### Round 3 Tasks:
-	- task1
-	- task2
-	- task3
-	- Identify the murderer(s)!

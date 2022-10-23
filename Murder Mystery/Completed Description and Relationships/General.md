@@ -18,7 +18,7 @@ Tonight's event is an auction for the recently departed, renowned chef Rigatoni 
 ___
 - ### Round 1:
 	- task1: TODO: Include this guy in the fake charity story line.
-	- task2
+	- task2: 
 	- task3
 - ### Round 2:
 	- task1
