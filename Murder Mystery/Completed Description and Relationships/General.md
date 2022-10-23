@@ -17,8 +17,8 @@ Tonight's event is an auction for the recently departed, renowned chef Rigatoni 
 ## Tasks
 ___
 - ### Round 1:
-	- task1: TODO: Include this guy in the fake charity story line.
-	- task2: 
+	- task1: If approached by Penelope about the cabin, tell her, her proposition is ridiculous. Calmly threaten that if she doesn't start attracting more serious offers, there is going to be consequences.
+	- task2: TODO: Include this guy in the fake charity story line.
 	- task3
 - ### Round 2:
 	- task1

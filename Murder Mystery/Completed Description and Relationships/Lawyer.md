@@ -19,7 +19,12 @@ ___
 - ### Round 1:
 	- task1: If asked about the bank account for tonight's auction, assure the asker that everything is squared away.
 	- task2: If complained to about Rebecca Ramos, offer that you may be able to help.
-- ### Round 1 Tasks:
+	- task3: If given info from Rakeeta Brown, let Penelope Hunt know. As a realtor, this is information she would very much like to know.
+- ### Round 2:
+	- task1
+	- task2
+	- task3
+- ### Round 3:
 	- task1
 	- task2
 	- task3

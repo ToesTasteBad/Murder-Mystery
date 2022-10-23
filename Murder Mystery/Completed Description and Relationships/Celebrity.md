@@ -18,7 +18,8 @@ You are a critically acclaimed actress who has just decided to take the next ste
 ___
 - ### Round 1: 
 	- task1: If Jodi Souvid approaches you about appearing on her show, tell her you'll get back to her later in the evening.
-	- task2: Give Frank Larsen a bottle of Aeronautics to taste and try in his drinks. He's rejected it before, but tonight, you won't take no for an answer.
+	- task2: Complain to your boyfriend, Keith, that your frustrated that Frank has been refusing to  to use your gin.
+	- task3: Give Frank Larsen a bottle of Aeronautics to taste and try in his drinks. He's rejected it before, but tonight, you won't take no for an answer.
 - ### Round 2:
 	- task1
 	- task2

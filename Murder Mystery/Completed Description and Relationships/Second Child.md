@@ -21,7 +21,7 @@ ___
 - ### Round 2:
 	- task1:
 	- task2
-	- task3: Instead of attending the second auction, stay upstairs and admit to [[SOMEONE]] that the knife being sold isn't actually your father's. You couldn't bare to see it fall into the hands of some stranger, so you had swapped it out a few days back.
+	- task3: Instead of attending the second auction, stay upstairs and admit to Jodi that the knife being sold isn't actually your father's. You couldn't bare to see it fall into the hands of some stranger, so you had swapped it out a few days back.
 - ### Round 3:
 	- task1: Order a Midori Sour from Frank Larsen's secret menu.
 	- task2

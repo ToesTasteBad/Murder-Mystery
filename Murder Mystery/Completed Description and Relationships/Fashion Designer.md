@@ -18,10 +18,10 @@ ___
 - ### Round 1:
 	- task1: Greet the lawyer, Milo Steinwell. Mention to him that if Rebecca Ramos doesn't pay you back soon, you may be needing his services in the near future.
 	- task2: Give heartfelt condolences to Puck Augustini and a curt greeting to his girlfriend, Blair Ashleigh.
-	- task3
+	- task3: Approach Blair and ask her once again if she would be interested in modeling one of your designs.
 - ### Round 2:
-	- task1
-	- task2
+	- task1: When the second auction begins. Stay upstairs.
+	- task2: Try to find Blair and chat about some design tweaks she would be willing to get behind.
 	- task3
 - ### Round 3:
 	- task1

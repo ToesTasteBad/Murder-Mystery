@@ -18,16 +18,15 @@ You are the city health inspector. As a result, you're familiar with many of the
 ## Tasks
 ___
 - ### Pre-Auction Tasks: 
-	- task1: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree.
-	- task2: Again if approached, mention who this was to Milo and comment that you thought it a bit strange.
+	- task1: 
 - ### Round 1 Tasks:
 	- task1: Overhear that Darren Kaufman and Orzo Alfredo are considering a business partnership (or at least pretend you did).
-	- task2
-	- task3
+	- task2: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree. Mention who this was to Milo and comment that you thought it a bit strange.
+	- task3: If approached by Harvey about Gregor and Anton, tell him you've known those two have been at odds with each other for awhile now.
 - ### Round 2 Tasks:
 	- task1: Ask Orzo Alfredo if he's really planning on going into business with such an unscrupulous businessman as Darren Kaufman.
 	- task2: Relay Orzo's answer to Harvey Davenport. This is some hot gos.
-	- task3
+	- task3: Speak to Mayor Hudson about what your heard from Arthur earlier in the night. Comment that you might not be able to eat there anymore if him and Frank can't learn to get along.
 - ### Round 3 Tasks:
 	- task1
 	- task2

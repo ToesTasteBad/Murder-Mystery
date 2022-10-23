@@ -23,9 +23,9 @@ ___
 	- task2
 	- task3
 - ### Round 2 Tasks:
-	- task1
-	- task2
-	- task3
+	- task1: When the evening's second auction is taking place, instead of attending, stay upstairs.
+	- task2: While upstairs if approached by Ziti, act impressed by what he tells you. Inwardly, find what he tells you to be very strange.
+	- task3:  Also while upstairs, meet with Sophia Bird about appearing on her show.
 - ### Round 3 Tasks:
 	- task1: If Darren Kaufman tells you about his business woes, suggest that you two could form some sort of partnership instead.
 	- task2

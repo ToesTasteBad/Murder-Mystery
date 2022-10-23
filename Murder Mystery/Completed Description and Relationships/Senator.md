@@ -21,7 +21,7 @@ ___
 	- task3
 - ### Round 2:
 	- task1: 
-	- task2
+	- task2: If approached by Mayor Hudson about Arthur and Frank, tell him you've known those two have been butting heads for a while.
 	- task3: Make sure you attend the evening's second auction.
 - ### Round 3 Tasks:
 	- task1

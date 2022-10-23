@@ -17,14 +17,14 @@ You are a well-respected and widely published food critic. This event is to comm
 
 ## Tasks
 ___
-- ### Round 1 Tasks (Leading up to knife auction / Nick death)
+- ### Round 1 Tasks 
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's an amazing bottle! You'll definetly be bidding.
 	- task2: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree. You have your eye on that bottle as well!
-	- task3: Speak to Anton about this new column you are starting. See if he has any new ideas.
+	- task3: If Harvey vents to you about Gregor, note this and talk to Poppy about it.
 - ### Round 2:
 	- task1: If you hear anything about Harvey Davenport, tell him about it.
-	- task2
-	- task3
+	- task2: Speak to Anton about this new column you are starting. Ask him if he has that sample writing of his that you asked him for. 
+	- task3: If you learn anything from the sample writing you were given, share that info with Mayor Hudson.
 - ### Round 3 Tasks:
 	- task1
 	- task2

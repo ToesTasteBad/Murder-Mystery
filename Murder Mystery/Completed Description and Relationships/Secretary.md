@@ -16,7 +16,7 @@ You are a Secretary at one of the law offices in town. As such, you tend to over
 ## Tasks
 ___
 - ### Round 1: 
-	- task1: TODO Desperately needs tasks
+	- task1: If given infomation from Reuben, pass it along to the Lawyer. Your sure this is info he would like to know about.
 - ### Round 2:
 	- task1:
 	- task2
