@@ -27,7 +27,4 @@ ___
 	- task2: If asked to run the wine bottle through a detective-o-matic in the coat closet, do so and and hand out the results.
 	- task3
 - ### Round 3 Tasks:
-	- task1
-	- task2
-	- task3
-	- Identify the murderer(s)!
+	- task1: You are dead!

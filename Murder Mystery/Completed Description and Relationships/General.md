@@ -20,9 +20,9 @@ ___
 - ### Round 1:
 	- task1: If approached by Penelope about the cabin, tell her, her proposition is ridiculous. Calmly threaten that if she doesn't start attracting more serious offers, there is going to be consequences.
 	- task2: Share the info you learn from Jodi with Nathan.
-	- task3
+	- task3: Talk to Senator Ramos about the upcoming budget vote.
 - ### Round 2:
-	- task1: I
+	- task1: Approach Senator Ramos about the "new arguments" you discussed earlier in the night and present him with it.
 - ### Round 3 Tasks:
 	- task1: 
 	- task2
