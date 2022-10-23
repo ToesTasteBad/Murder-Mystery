@@ -13,7 +13,7 @@ You are a well-respected and widely published food critic. This event is to comm
 - [[Sommelier|Anton Sherman - Sommelier]] - You and Anton have been talking about starting a shared review column together, talking about the best food and wine pairings in the city and surrounding areas. You two are still figuring out the details.
 - [[Health Inspector|Poppy Steinwell - Health Inspector]] - You and Poppy are good golfing buddies. Between the two of you, you know an awful lot about the city's restaurants and enjoy sharing the latest food related gossip.
 - [[Vinter|Giovanni Bishop - Vinter]] - Giovanni is another good golf buddy of yours, but has been a bit caught up at the vineyard of late and has been unable to play much at all this season.
-- [[Mayor|James Hudson - Mayor]] - Another one of your golfing buddies. You used to golf even before he became mayor.
+- [[Mayor|Jim Hudson - Mayor]] - Another one of your golfing buddies. You used to golf even before he became mayor.
 
 ## Tasks
 ___

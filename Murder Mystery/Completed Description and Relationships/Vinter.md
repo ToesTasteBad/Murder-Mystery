@@ -13,7 +13,7 @@ You own what is indisputably the finest vineyard in the state. Tonight's event i
 - [[Sommelier|Anton Sherman - Sommelier]] - You have been in business with Anton for a number of years now. He stamps his signature on the labels of the bottles he most recommends. These bottles always sell the best. However, costs at the vineyard are running high and you are looking for ways to save money. You've informed Anton you will be cutting his kick back percentage.
 - [[Health Inspector|Poppy Steinwell - Health Inspector]] - You and Poppy are both members of a golfing foursome!  However, you've been far too busy at the vineyard this season and haven't been able to get out at all. You are hoping to catch up with them on the latest gossip at the event.
 - [[Food Critic|Harvey Davenport - Food Critic]] - Good golfing buddy of yours! 
-- [[Mayor|James Hudson - Mayor]] - Another one of your golfing buddies. You used to golf even before he became mayor.
+- [[Mayor|Jim Hudson - Mayor]] - Another one of your golfing buddies. You used to golf even before he became mayor.
 
 ## Tasks
 ___
