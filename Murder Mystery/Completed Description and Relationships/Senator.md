@@ -17,7 +17,7 @@ By day, you're a senator for the state of Minnesota. By night, an enjoyer of the
 ___
 - ### Round 1:
 	- task1: Approach Frank Larsen with a bribe. If he rejects it, insist. Try not to let anyone else find out.
-	- task2
+	- task2: 
 	- task3
 - ### Round 2:
 	- task1: 

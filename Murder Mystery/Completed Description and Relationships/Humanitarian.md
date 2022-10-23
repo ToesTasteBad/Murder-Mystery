@@ -25,7 +25,7 @@ ___
 - ### Round 2:
 	- task1: Give Puck Augustini your condolences. You're sure he and Rigatoni must have been close. Ask if he'll be bidding on the knife.
 	- task2: Warn Nathan Cain that the charity is fake.
-	- task3
+	- task3: Warn your dad, General Grey, that the charity is fake as well.
 - ### Round 3 Tasks:
 	- task1
 	- task2

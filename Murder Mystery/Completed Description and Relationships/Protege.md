@@ -20,6 +20,7 @@ ___
 - ### Round 1: 
 	- task1: Confide in Ziti Alfredo that Frank leaving the restaurant when you took over was hurtful. It's like he doesn't have confidence in your cooking.
 	- task2: Give Orzo Alfredo your condolences and thank him for putting tonight's event together.
+	- task3: Speak to Erik, about how you think it's bullshit that Rigatoni didn't just leave you his knife! You are his protege after all!
 - ### Round 2:
 	- task1: If asked if you'll be bidding on the knife, wax poetic. "You know, it's been said that a chef's contains a part of his very soul. Would you bid on a soul? To use it for anything other than cooking is sacrilege."
 	- task2: Make sure you attend the evening's second auction.

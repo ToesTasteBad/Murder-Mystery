@@ -17,6 +17,7 @@ You are the owner of WcRonald's, an international fast food chain. This town's e
 ___
 - ### Round 1: 
 	- task1: Mention to Orzo Alfredo that you'd be interested in using his father's name on your menu. It could be lucrative for both of you.
+	- task2: Give your condolences to Ziti on the loss of his father.
 - ### Round 2:
 	- task1: If someone tell you something about your partnership with Orzo, confront him.
 	- task2

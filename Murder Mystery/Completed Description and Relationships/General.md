@@ -13,17 +13,18 @@ Tonight's event is an auction for the recently departed, renowned chef Rigatoni 
 - [[Senator|Stephen Ramos - Senator]] - You've met with Stephen a few times over the years regarding military matters. It just so happens a big vote regarding the military's budget is coming up, and you are hoping to persuade him to vote in favor.
 - [[Humanitarian|Elizabeth Cain - Humanitarian]] - You are Elizabeth's dad.
 - [[Celebrity|Sophia Bird - Celebrity]] - You are one of Sophia's biggest fans and absolutely love the new movie she was just in. You're very excited she's going to be at this party.
+- [[Food TV Host|Jodi Souvid - TV Host]] - You two went to highschool together! You weren't friends per say but  got along just fine. It's been awhile since you've seen each other.
 
 ## Tasks
 ___
 - ### Round 1:
 	- task1: If approached by Penelope about the cabin, tell her, her proposition is ridiculous. Calmly threaten that if she doesn't start attracting more serious offers, there is going to be consequences.
-	- task2: TODO: Include this guy in the fake charity story line.
+	- task2: Share the info you learn from Jodi with Nathan.
 	- task3
 - ### Round 2:
-	- task1
+	- task1: I
 - ### Round 3 Tasks:
-	- task1
+	- task1: 
 	- task2
 	- task3
 	- Identify the murderer(s)!

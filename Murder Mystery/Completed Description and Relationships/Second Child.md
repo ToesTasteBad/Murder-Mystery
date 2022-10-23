@@ -16,8 +16,9 @@ Tonight's event is to commemorate your father, Rigatoni Alfredo, who recently pa
 ## Tasks
 ___
 - ### Round 1: 
-	- task1: Lament to Reuben Barlow that your brother, Orzo, isn't treating your father's knife with the respect you would have. You would have preferred to keep it in the family, but you don't have the funds to win it in tonight's bid.
-	- task2: If asked about a Devoux painting that was hanging in your father's restaurant, admit that you don't know what happened to it, and recommend the inquirer speaks to Orzo.
+	- task1: When Reuben Barlow speaks to you, lament that your brother, Orzo, isn't treating your father's knife with the respect you would have. You would have preferred to keep it in the family, but you don't have the funds to win it in tonight's bid.
+	- task2: When Darren Kaufman speaks to you, also lament to him about the knife.
+	- task3: When Stephen Ramos speaks to you, again lament to him about the knife.
 - ### Round 2:
 	- task1:
 	- task2
