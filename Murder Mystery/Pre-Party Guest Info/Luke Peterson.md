@@ -9,7 +9,7 @@ You are the owner of WcRonald's, an international fast food chain. This town's e
 Here are a few people you may recognize at the party:
 
 - Poppy Steinwell - Health Inspector: She's given you a fair amount of trouble in the past. The fact of the matter is that it's more profitable to deal with a few health and safety lawsuits than it is to implement stringent policies at all of your restaurants.
-- Orzo Alfredo - Eldest Child: Rigatoni was never interested in going into business, but Orzo, who now has claim to the family name, might be a different story.
+- Orzo Alfredo - Rigatoni's Eldest Child: Rigatoni was never interested in going into business, but Orzo, who now has claim to the family name, might be a different story.
 - Rebecca Ramos - Author: You used to be a fan of her work until she blatantly wrote a character inspired by you into her stories. And not a very flattering one at that.
 - Rakeeta Brown - Secretary: Rakeeta fell at one of your restaurants two years ago and had the gall to sue you over it! The court fees and time were getting to be too much and so you ended up settling just to get it over with. It cost you an arm and a leg.
 
