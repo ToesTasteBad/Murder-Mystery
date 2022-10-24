@@ -23,7 +23,7 @@ ___
 	- task2:  If approached by anyone asking you not to bid, be curtious and say if the bids are generous enough perhaps I will consider that.
 	- task3: If approached by Penelope Hunt, tell her you have no interest in selling, and that your patience with her is running thin.
 	- task4: If asked about your '66 Boisson, concede that it is a special occasion, and that could be convinced to have a drink in Rigatoni's honor.
-- ### Round 2 Tasks:
+- ### Round 2:
 	- task1: You are dead!
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1: You are dead!

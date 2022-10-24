@@ -23,7 +23,7 @@ ___
 	- task3: Talk to Senator Ramos about the upcoming budget vote.
 - ### Round 2:
 	- task1: Approach Senator Ramos about the "new arguments" you discussed earlier in the night and present him with it.
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1: 
 	- task2
 	- task3

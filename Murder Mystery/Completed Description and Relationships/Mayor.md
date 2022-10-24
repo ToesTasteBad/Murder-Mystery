@@ -26,7 +26,7 @@ ___
 	- task1: If Harvey gives you any information on Anton, share this with Poppy.
 	- task2: After being approached by Poppy, talk to Senator Ramos about the same topic. Ask if he's noticed the same thing.
 	- task3
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1
 	- task2
 	- task3

@@ -23,7 +23,7 @@ ___
 	- task1: Accept the "new arguments" presented to you by the General given you conversation from earlier.
 	- task2: If approached by Mayor Hudson about Arthur and Frank, tell him you've known those two have been butting heads for a while.
 	- task3: Make sure you attend the evening's second auction.
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1
 	- task2
 	- task3

@@ -21,12 +21,13 @@ ___
 	- task1: Give your condolences to [[Eldest Child|Ziti Alfredo]], and inquire about the painting you sold their father.
 	- task2: Speak to [[Wine Collector|Giovanni Bishop]] about his Devoux. See if he will sell it to you.
 	- task3: After speaking to Giovanni, pass along what you learned to Rakeeta.
-- ### Round 2 Tasks:
+- ### Round 2:
 	- task1: Speak to Giovanni Bishop about his Devoux again. See if you can get him to name a price.
 	- task2:
 	- task3:
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1: Ask Daniel Pierce if he, as a member of the wine community, knows what Giovanni Bishop has against you.
 	- task2
 	- task3
 	- Identify the murderer(s)!
+- ### Final Statement

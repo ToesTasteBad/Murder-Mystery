@@ -19,15 +19,15 @@ ___
 - ### Pre-Auction Tasks: 
 	- task1:  If Anton approaches asking about coming on your show, politely say you need more time to think about it.
 	- task2: Give a compliment to Sophia. Perhaps flattering her will wear her down into saying yes!
-- ### Round 1 Tasks:
+- ### Round 1:
 	- task1: After Erik approaches you with info regarding Puck, speak to General Grey about it.
 	- task2
 	- task3
-- ### Round 2 Tasks:
+- ### Round 2:
 	- task1: When the evening's second auction is taking place, instead of attending, stay upstairs.
 	- task2: While upstairs if approached by Ziti, act impressed by what he tells you. Inwardly, find what he tells you to be very strange.
 	- task3:  Also while upstairs, meet with Sophia Bird about appearing on her show.
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1: If Darren Kaufman tells you about his business woes, suggest that you two could form some sort of partnership instead.
 	- task2: After your conversation with Darren, tell General Grey about the outcome.
 	- task3

@@ -20,11 +20,11 @@ ___
 	- task1: Speak to Vladimir about the cabin. Ask if he will consider dropping the asking price by $30k. Explain to him, again, that hes asking to much.
 	- task2: Try to wait on some info from Milo before approaching Gregor to ask about selling his mansion. Tell him that market's never been hotter, and that you could both make a pretty penny if he acts now.
 	- task3: Talk to Nathan about how your conversation with Gregor went.
-- ### Round 2 Tasks:
+- ### Round 2:
 	- task1
 	- task2
 	- task3
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1
 	- task2
 	- task3

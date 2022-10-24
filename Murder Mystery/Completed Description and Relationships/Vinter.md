@@ -27,7 +27,7 @@ ___
 	- task1: If asked about selling your Devoux, make it clear that you aren't interested in selling.
 	- task2
 	- task3
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1
 	- task2
 	- task3

@@ -23,7 +23,7 @@ ___
 	- task1: Speak to Harvey about the new column you are starting. Provide him the sample article of yours that he requested. He wants to get a better feel of your writing style. 
 	- task2
 	- task3
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1
 	- task2
 	- task3

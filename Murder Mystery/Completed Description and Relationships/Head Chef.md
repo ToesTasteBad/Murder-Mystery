@@ -24,7 +24,7 @@ ___
 	- task1: If Erik Howell bugs you about working with Frank Larsen, prove that you're making an effort by showing him the recipe card you came up with to pair with one of his cocktails.
 	- task2
 	- task3: Make sure you attend the evening's second auction.
-- ### Round 3 Tasks:
+- ### Round 3:
 	- task1
 	- task2
 	- task3
