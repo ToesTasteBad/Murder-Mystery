@@ -13,13 +13,13 @@ You own what is indisputably the finest vineyard in the state. Tonight's event i
 - [[Sommelier|Anton Sherman - Sommelier]] - You have been in business with Anton for a number of years now. He stamps his signature on the labels of the bottles he most recommends. These bottles always sell the best. However, costs at the vineyard are running high and you are looking for ways to save money. You've informed Anton you will be cutting his kick back percentage.
 - [[Health Inspector|Poppy Steinwell - Health Inspector]] - You and Poppy are both members of a golfing foursome!  However, you've been far too busy at the vineyard this season and haven't been able to get out at all. You are hoping to catch up with them on the latest gossip at the event.
 - [[Food Critic|Harvey Davenport - Food Critic]] - Good golfing buddy of yours! 
-- [[Mayor|James Hudson - Mayor]] - Another one of your golfing buddies. You used to golf even before he became mayor.
+- [[Mayor|Jim Hudson - Mayor]] - Another one of your golfing buddies. You used to golf even before he became mayor.
 
 ## Tasks
 ___
 - ### Round 1: 
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. If asked, you are definetly interested, but unsure if you'll bid.
-	- task2: If approached by Reuben politely inform him your Devoux is still not for sale.
+	- task2: If approached by Reuben, tell him you don't want to sell the Devoux, but Gregor has been missing some investor meetings and you have concerns he's been spending to much on specialty wines and won't be able to continue to make his investments. Ask him to ask you again later in the evening.
 	- task3:  After inspecting the bottle, approach Gregor and tell him to not bid on the bottle, its not worth his time.
 	- task4: See if you can convince Harvey to also say something to Gregor about not bidding on the wine.
 	- task5: If you are really up to it, see if you can convince Poppy of the same thing as well!

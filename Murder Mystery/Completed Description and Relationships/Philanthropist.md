@@ -16,7 +16,8 @@ You are a prominent business man who has made his fortune through oil. Your oil 
 ## Tasks
 ___
 - ### Round 1: 
-	- task1: 
+	- task1: If approached by Penelope in regards to info about Gregor, ask her why she's even interested in the first place?
+	- task2: If approached by your wife with info about Stephen, share that info with General Grey.
 - ### Round 2:
 	- task1:
 	- task2: If you recieve information about tonight's charity, confront Milo Steinwell about it.

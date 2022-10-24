@@ -13,18 +13,18 @@ You are a well-respected and widely published food critic. This event is to comm
 - [[Sommelier|Anton Sherman - Sommelier]] - You and Anton have been talking about starting a shared review column together, talking about the best food and wine pairings in the city and surrounding areas. You two are still figuring out the details.
 - [[Health Inspector|Poppy Steinwell - Health Inspector]] - You and Poppy are good golfing buddies. Between the two of you, you know an awful lot about the city's restaurants and enjoy sharing the latest food related gossip.
 - [[Vinter|Giovanni Bishop - Vinter]] - Giovanni is another good golf buddy of yours, but has been a bit caught up at the vineyard of late and has been unable to play much at all this season.
-- [[Mayor|James Hudson - Mayor]] - Another one of your golfing buddies. You used to golf even before he became mayor.
+- [[Mayor|Jim Hudson - Mayor]] - Another one of your golfing buddies. You used to golf even before he became mayor.
 
 ## Tasks
 ___
-- ### Round 1 Tasks (Leading up to knife auction / Nick death)
+- ### Round 1 Tasks 
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's an amazing bottle! You'll definetly be bidding.
 	- task2: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree. You have your eye on that bottle as well!
-	- task3: Speak to Anton about this new column you are starting. See if he has any new ideas.
+	- task3: If Harvey vents to you about Gregor, note this and talk to Poppy about it.
 - ### Round 2:
 	- task1: If you hear anything about Harvey Davenport, tell him about it.
-	- task2
-	- task3
+	- task2: Speak to Anton about this new column you are starting. Ask him if he has that sample writing of his that you asked him for. 
+	- task3: If you learn anything from the sample writing you were given, share that info with Mayor Hudson.
 - ### Round 3 Tasks:
 	- task1
 	- task2

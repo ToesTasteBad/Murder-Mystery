@@ -16,12 +16,13 @@ Tonight's event is to commemorate your father, Rigatoni Alfredo, who recently pa
 ## Tasks
 ___
 - ### Round 1: 
-	- task1: Lament to Reuben Barlow that your brother, Orzo, isn't treating your father's knife with the respect you would have. You would have preferred to keep it in the family, but you don't have the funds to win it in tonight's bid.
-	- task2: If asked about a Devoux painting that was hanging in your father's restaurant, admit that you don't know what happened to it, and recommend the inquirer speaks to Orzo.
+	- task1: When Reuben Barlow speaks to you, lament that your brother, Orzo, isn't treating your father's knife with the respect you would have. You would have preferred to keep it in the family, but you don't have the funds to win it in tonight's bid.
+	- task2: When Darren Kaufman speaks to you, also lament to him about the knife.
+	- task3: When Stephen Ramos speaks to you, again lament to him about the knife.
 - ### Round 2:
 	- task1:
 	- task2
-	- task3: Instead of attending the second auction, stay upstairs and admit to [[SOMEONE]] that the knife being sold isn't actually your father's. You couldn't bare to see it fall into the hands of some stranger, so you had swapped it out a few days back.
+	- task3: Instead of attending the second auction, stay upstairs and admit to Jodi that the knife being sold isn't actually your father's. You couldn't bare to see it fall into the hands of some stranger, so you had swapped it out a few days back.
 - ### Round 3:
 	- task1: Order a Midori Sour from Frank Larsen's secret menu.
 	- task2

@@ -17,11 +17,9 @@ You are a realtor who has managed to break into the wealthy crowd and have been 
 ## Tasks
 ___
 - ### Round 1:
-	- task1: Approach Gregor about selling his mansion. Tell him that market's never been hotter, and that you could both make a pretty penny if he acts now.
-- ### Round 1 Tasks:
-	- task1
-	- task2
-	- task3
+	- task1: Speak to Vladimir about the cabin. Ask if he will consider dropping the asking price by $30k. Explain to him, again, that hes asking to much.
+	- task2: Try to wait on some info from Milo before approaching Gregor to ask about selling his mansion. Tell him that market's never been hotter, and that you could both make a pretty penny if he acts now.
+	- task3: Talk to Nathan about how your conversation with Gregor went.
 - ### Round 2 Tasks:
 	- task1
 	- task2

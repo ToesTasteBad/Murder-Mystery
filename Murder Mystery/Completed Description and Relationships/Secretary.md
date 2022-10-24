@@ -16,12 +16,13 @@ You are a Secretary at one of the law offices in town. As such, you tend to over
 ## Tasks
 ___
 - ### Round 1: 
-	- task1: TODO Desperately needs tasks
+	- task1: If given infomation from Reuben, pass it along to the Lawyer. Your sure this is info he would like to know about.
+	- task2: Offer your condolences to Ziti about the loss of his father.
 - ### Round 2:
 	- task1:
 	- task2
 	- task3
 - ### Round 3:
-	- task1
+	- task1: Ask Elizabeth Cain about a rumor you heard around the office about tonights auction. You couldn't make out all the details, but you defiently saw Milo getting a bit too excited about the auction at the office.
 	- task2
 	- task3

@@ -17,11 +17,11 @@ By day, you're a senator for the state of Minnesota. By night, an enjoyer of the
 ___
 - ### Round 1:
 	- task1: Approach Frank Larsen with a bribe. If he rejects it, insist. Try not to let anyone else find out.
-	- task2
+	- task2: If approached by General Grey regarding the upcoming vote, tell him you are still thinking about it and that you are open to any "new arguments" (cough, cough... bribes) regarding the matter.
 	- task3
 - ### Round 2:
-	- task1: 
-	- task2
+	- task1: Accept the "new arguments" presented to you by the General given you conversation from earlier.
+	- task2: If approached by Mayor Hudson about Arthur and Frank, tell him you've known those two have been butting heads for a while.
 	- task3: Make sure you attend the evening's second auction.
 - ### Round 3 Tasks:
 	- task1

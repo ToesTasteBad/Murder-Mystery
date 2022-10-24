@@ -19,8 +19,9 @@ You are the owner of one of the best restaurants in the city, La Bouffe. Tonight
 ## Tasks
 ___
 - ### Round 1: 
-	- task2:  Say to [[Mayor|Jim Hudson]] that you've been dying to try Gregor's '66 Boisson, but that the old miser has never been interested in sharing.
-	- task3:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's a nice bottle. You'll most likely bid.
+	- task1:  Say to [[Mayor|Jim Hudson]] that you've been dying to try Gregor's '66 Boisson, but that the old miser has never been interested in sharing.
+	- task2:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's a nice bottle. You'll most likely bid.
+	- task3: After Ziti speaks with you, talk to Jodi about how you find this odd as well.
 - ### Round 2:
 	- task1: Tell Arthur that Frank is here to stay, and Arthur needs to figure out how to work with him.
 	- task2
