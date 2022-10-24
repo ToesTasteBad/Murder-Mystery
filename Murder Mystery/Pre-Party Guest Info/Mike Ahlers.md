@@ -14,4 +14,4 @@ Here are a few people you may recognize at the party:
 - Keith Hartley - Detective: He's been seen snooping around your gallery. This makes you a bit nervous because, to be honest, not all of your pieces were acquired by entirely *legal* methods.
 - Rakeeta Brown - Secretary: You two have been dating for a number of years.
 
-The party will start at 7:00pm and the murder mystery will begin at 7:30pm, so make sure to show up by then! See you soon!
+The party will start at 7:00pm on Saturday the 29th and the murder mystery will begin at 7:30pm, so make sure to show up by then! See you so

@@ -4,7 +4,7 @@
 
 ## Description
 ---
-Tonight's event is an auction for the recently departed, renowned chef Rigatoni Alfredo. You met Rigatoni at basic many years ago and became quite good friends. You haven't spoken in a number of years but have been closely following his success.
+You are an accomplished General in the US army. Tonight's event is an auction for the recently departed, renowned chef Rigatoni Alfredo. You met Rigatoni at basic many years ago and became quite good friends. You haven't spoken in a number of years but have been closely following his success.
 
 ## Relationships
 ---
