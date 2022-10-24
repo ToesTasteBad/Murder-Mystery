@@ -25,6 +25,6 @@ ___
 	- task2
 	- task3
 - ### Round 3:
-	- task1
+	- task1: Warn Rebecca Ramos that if she doesn't pay Diana for the dress soon, there may be legal action
 	- task2
 	- task3

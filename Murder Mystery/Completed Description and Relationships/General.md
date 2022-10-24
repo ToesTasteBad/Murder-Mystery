@@ -22,9 +22,9 @@ ___
 	- task2: Share the info you learn from Jodi with Nathan.
 	- task3: Talk to Senator Ramos about the upcoming budget vote.
 - ### Round 2:
-	- task1: Approach Senator Ramos about the "new arguments" you discussed earlier in the night and present him with it.
+	- task1: Ask the host (who may be a ghost) if you can borrow an envelope, for a totally legal reason.
+	- task2: Approach Senator Ramos about the "new arguments" you discussed earlier in the night and present him with it.
 - ### Round 3:
-	- task1: 
-	- task2
+	- task1: You've been too nervous to approach Sophia Bird until now, but you've finally mustered up the courage to introduce yourself. Tell her what a big fan you are.
+	- task2: Order a Black Hawk Down from Frank Larsen.
 	- task3
-	- Identify the murderer(s)!

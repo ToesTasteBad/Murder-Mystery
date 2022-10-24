@@ -18,11 +18,11 @@ ___
 - ### Round 1: 
 	- task1: Mention to Orzo Alfredo that you'd be interested in using his father's name on your menu. It could be lucrative for both of you.
 	- task2: Give your condolences to Ziti on the loss of his father.
-	- If someone approaches you asking about any new buisness dealings you've been involved in, tell them you and Orzo Alfredo are going to be going into buisness together.
+	- task3: If someone approaches you asking about any new business dealings you've been involved in, tell them you and Orzo Alfredo are going to be going into buisness together.
 - ### Round 2:
 	- task1: If someone tell you something about your partnership with Orzo, confront Orzo about it.
-	- task2
-	- task3
+	- task2: Mention to Rebecca Ramos that you don't appreciate the way she portrays you in her books.
+	- task3: Ask Rakeeta Brown if she's fallen in any other restaurants lately.
 - ### Round 3:
 	- task1: Order a Midori Sour from Frank Larsen's secret menu.
 	- task2: Complain to Jodi Souvid about Orzo's rude behavior.

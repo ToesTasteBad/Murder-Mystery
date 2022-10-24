@@ -23,4 +23,5 @@ ___
 	- task2: At some point early in the bidding, ask puck to hold your drink and go upstairs. The bidding is just a bit too much for you. 
 	- task3: While upstairs, try to find Diana to talk about those design tweaks.
 - ### Round 3:
-	- task1: 
+	- task1: If approached about wearing art, suggest that royalties could be worked out in the future.
+	- task2: If given a heartfelt speech about mortality, agree that you should make up.

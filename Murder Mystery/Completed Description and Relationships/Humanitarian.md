@@ -15,9 +15,6 @@ You are an accomplished humanitarian and the director of the non-profit, Fine Cu
 
 ## Tasks
 ___
-- ### Pre-Auction Tasks: 
-	- Catch up with [[Author|Rebecca Ramos]]! Tell her you've been sad to see she hasn't been writing as much. You read all of her books.
-	- Say hello to [[General|Vladimir Grey]], your father. It would be weird not to acknowledge each other.
 - ### Round 1:
 	- task1: Ask Orzo Alfredo what charity tonight's event is for. Check it against your comprehensive charity list.
 	- task2: If approached by Rebecca about some info on her husband, Stephen the Senator, gossip about it to your husband.

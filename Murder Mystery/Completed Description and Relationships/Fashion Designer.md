@@ -24,7 +24,6 @@ ___
 	- task2: Try to find Blair and chat about some design tweaks she would be willing to get behind.
 	- task3
 - ### Round 3:
-	- task1
+	- task1: Talk to Jodi Souvid about gaining her endorsement on your new food themed clothing line.
 	- task2
 	- task3
-	- Identify the murderer(s)!

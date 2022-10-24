@@ -27,4 +27,4 @@ ___
 	- task2: If asked to run the wine bottle through a detective-o-matic in the coat closet, do so and and hand out the results.
 	- task3: Attend the auction to see who is going to win your old friends knife
 - ### Round 3:
-	- task1: You are dead!
+	- task1: You are dead! (also, if someone orders a black hawk down, that's a blackberry daiquiri)

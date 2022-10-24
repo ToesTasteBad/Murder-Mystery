@@ -25,6 +25,6 @@ ___
 	- task2
 	- task3: When the evening's second auction is taking place, instead of attending, meet with Jodi Souvid upstairs about appearing on her show.
 - ### Round 3:
-	- task1
-	- task2
-	- task3
+	- task1: If approached by a big fan, offer to sign them an autograph!
+	- task2: This is a good chance to meet some influential people. Introduce yourself to Stephen Ramos. Make sure to casually mention your new gin.
+	- task3: Tell Blair that confronting your mortality has made you realize how insignificant your differences are.

@@ -26,5 +26,5 @@ ___
 	- task2: Make sure you attend the evening's second auction.
 - ### Round 3:
 	- task1: Order a Midori Sour from Frank Larsen's secret menu.
-	- task2: At 9:00, give a toast upstairs in honor of Rigatoni Alfredo. Make sure to tell everyone that 9:00 was his favorite time of day.
-	- task3
+	- task2: If asked about your plans, say that you've had some big shoes to fill, but you're working hard to prove yourself.
+	- task3: At 9:00, give a toast upstairs in honor of Rigatoni Alfredo. Make sure to tell everyone that 9:00 was his favorite time of day.

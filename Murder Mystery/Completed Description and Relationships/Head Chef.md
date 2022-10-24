@@ -22,10 +22,8 @@ ___
 	- task4: Confide in [[Health Inspector|Poppy Steinwell]] that ever since Frank started at La Bouffe, it's been impossible to convince him to cooperate on a menu. You're reaching your wit's end.
 - ### Round 2:
 	- task1: If Erik Howell bugs you about working with Frank Larsen, prove that you're making an effort by showing him the recipe card you came up with to pair with one of his cocktails.
-	- task2
-	- task3: Make sure you attend the evening's second auction.
+	- task2: Make sure you attend the evening's second auction.
 - ### Round 3:
-	- task1
+	- task1: If asked about your plans, say that you've got some incredible new dishes in the works, and that if they really want to know about them, they'll have to swing by La Bouffe.
 	- task2
 	- task3
-	- Identify the murderer(s)!

@@ -26,7 +26,7 @@ ___
 	- task2: Speak to Anton about this new column you are starting. Ask him if he has that sample writing of his that you asked him for. 
 	- task3: If you learn anything from the sample writing you were given, share that info with Mayor Hudson.
 - ### Round 3:
-	- task1
-	- task2
+	- task1: Ask Arthur Cooke what his big plan is to pull ahead of Puck. Remind him that you'll be releasing a big article next week.
+	- task2: Have basically the same conversation with Puck Augustini.
 	- task3
 	- Identify the murderer(s)!

@@ -24,7 +24,7 @@ ___
 	- task2: If approached by Mayor Hudson about Arthur and Frank, tell him you've known those two have been butting heads for a while.
 	- task3: Make sure you attend the evening's second auction.
 - ### Round 3:
-	- task1
+	- task1: If someone tells you to try their gin, insist that you will! (optionally, go order a gin drink from Ghost Frank)
 	- task2
 	- task3
 	- Identify the murderer(s)!

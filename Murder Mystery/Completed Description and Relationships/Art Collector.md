@@ -27,7 +27,7 @@ ___
 	- task3:
 - ### Round 3:
 	- task1: Ask Daniel Pierce if he, as a member of the wine community, knows what Giovanni Bishop has against you.
-	- task2
+	- task2: Congratulate Blair Ashleigh on her success wearing your art. Mention that people often charge steep royalties for such things. (You would be willing to overlook that this time if she would go through the proper channels in the future.)
 	- task3
 	- Identify the murderer(s)!
 - ### Final Statement

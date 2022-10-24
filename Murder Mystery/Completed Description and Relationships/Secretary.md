@@ -19,9 +19,8 @@ ___
 	- task1: If given infomation from Reuben, pass it along to the Lawyer. Your sure this is info he would like to know about.
 	- task2: Offer your condolences to Ziti about the loss of his father.
 - ### Round 2:
-	- task1:
-	- task2
-	- task3
+	- task1: If asked about Reuben's paintings, insist that they were all purchased legally, and warn Reuben about who was asking.
+	- task2: If anyone makes a rude fall-related remark, respond that you've only dined at respectable establishments as of late, and *they* know how to put up wet floor signs.
 - ### Round 3:
 	- task1: Ask Elizabeth Cain about a rumor you heard around the office about tonights auction. You couldn't make out all the details, but you defiently saw Milo getting a bit too excited about the auction at the office.
 	- task2
