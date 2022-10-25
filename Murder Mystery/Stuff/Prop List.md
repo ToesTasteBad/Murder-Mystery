@@ -6,3 +6,4 @@ Ghost signs
 Name tags
 Aviation Gin
 Cocktail ingredients.
+Note from Gregor to Vinter about investment reduction (Nick)
