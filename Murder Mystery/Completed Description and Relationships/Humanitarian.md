@@ -18,13 +18,11 @@ ___
 - ### Round 1:
 	- task1: Ask Orzo Alfredo what charity tonight's event is for. Check it against your comprehensive charity list.
 	- task2: If approached by Rebecca about some info on her husband, Stephen the Senator, gossip about it to your husband.
-	- task3
 - ### Round 2:
 	- task1: Give Puck Augustini your condolences. You're sure he and Rigatoni must have been close. Ask if he'll be bidding on the knife.
 	- task2: Warn Nathan Cain that the charity is fake.
 	- task3: Warn your dad, General Grey, that the charity is fake as well.
 - ### Round 3:
-	- task1
-	- task2
-	- task3
+	- task1: Order a drink of your choosing from Ghost Frank Larsen!
+	- task2: If approached by Rakeeta about Milo, tell her you aren't sure and that she should talk to General Grey about it.
 	- Identify the murderer(s)!

@@ -25,6 +25,6 @@ ___
 	- task3: Make sure you attend the evening's second auction.
 - ### Round 3:
 	- task1: If someone tells you to try their gin, insist that you will! (optionally, go order a gin drink from Ghost Frank)
-	- task2
+	- task2: Chat with Erik Howell and offer your assistance with training in Frank's replacement since you've had many of his drinks.
 	- task3
 	- Identify the murderer(s)!

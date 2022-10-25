@@ -19,16 +19,16 @@ You own what is indisputably the finest vineyard in the state. Tonight's event i
 ___
 - ### Round 1: 
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. If asked, you are definetly interested, but unsure if you'll bid.
-	- task2: If approached by Reuben, tell him you don't want to sell the Devoux, but Gregor has been missing some investor meetings and you have concerns he's been spending to much on specialty wines and won't be able to continue to make his investments. Ask him to ask you again later in the evening.
+	- task2: If approached by Reuben, tell him you don't want to sell the Devoux. Gregor has been missing some investor meetings and you have concerns he's been spending too much on specialty wines and won't be able to continue to make his investments. (Give your letter from Gregor to Reuben.) Ask Reuben to talk to you about the Devoux again after the wine auction.
 	- task3:  After inspecting the bottle, approach Gregor and tell him to not bid on the bottle, its not worth his time.
 	- task4: See if you can convince Harvey to also say something to Gregor about not bidding on the wine.
 	- task5: If you are really up to it, see if you can convince Poppy of the same thing as well!
 - ### Round 2:
 	- task1: If asked about selling your Devoux, make it clear that you aren't interested in selling.
-	- task2
-	- task3
+	- task2: If approached by Daniel Pierce with an investment offer, tell him you'll accept as long as he doesn't get carried away with extravagant wines like Gregor did.
+	- task3:
 - ### Round 3:
-	- task1
-	- task2
-	- task3
+	- task1: If Anton approaches about the kick back, inform him you've managed to secure some additional revenue streams and that he should be able to restore your cut.
+	- task2: You've had a long night. Order a drink from Ghost Frank.
+	- task3:
 	- Identify the murderer(s)!

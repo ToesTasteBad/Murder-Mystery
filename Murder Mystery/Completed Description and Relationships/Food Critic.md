@@ -22,9 +22,9 @@ ___
 	- task2: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree. You have your eye on that bottle as well!
 	- task3: If Harvey vents to you about Gregor, note this and talk to Poppy about it.
 - ### Round 2:
-	- task1: If you hear anything about Harvey Davenport, tell him about it.
-	- task2: Speak to Anton about this new column you are starting. Ask him if he has that sample writing of his that you asked him for. 
-	- task3: If you learn anything from the sample writing you were given, share that info with Mayor Hudson.
+	- task1: If you hear anything about Darren Kaufman tell him about it.
+	- task2: Speak to Anton about this new column you are starting. Ask him if he has that sample interview of his that you asked him for. 
+	- task3: Share the sample writing you were given with Mayor Hudson.
 - ### Round 3:
 	- task1: Ask Arthur Cooke what his big plan is to pull ahead of Puck. Remind him that you'll be releasing a big article next week.
 	- task2: Have basically the same conversation with Puck Augustini.

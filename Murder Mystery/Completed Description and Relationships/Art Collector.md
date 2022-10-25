@@ -20,7 +20,7 @@ ___
 - ### Round 1:
 	- task1: Give your condolences to [[Eldest Child|Ziti Alfredo]], and inquire about the painting you sold their father.
 	- task2: Speak to [[Wine Collector|Giovanni Bishop]] about his Devoux. See if he will sell it to you.
-	- task3: After speaking to Giovanni, pass along what you learned to Rakeeta.
+	- task3: After speaking to Giovanni, pass along what you learned about Gregor to Rakeeta. Give her the letter.
 - ### Round 2:
 	- task1: Speak to Giovanni Bishop about his Devoux again. See if you can get him to name a price.
 	- task2:

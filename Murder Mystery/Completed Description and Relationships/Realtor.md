@@ -18,14 +18,13 @@ You are a realtor who has managed to break into the wealthy crowd and have been 
 ___
 - ### Round 1:
 	- task1: Speak to Vladimir about the cabin. Ask if he will consider dropping the asking price by $30k. Explain to him, again, that hes asking to much.
-	- task2: Try to wait on some info from Milo before approaching Gregor to ask about selling his mansion. Tell him that market's never been hotter, and that you could both make a pretty penny if he acts now.
-	- task3: Talk to Nathan about how your conversation with Gregor went.
+	- task2: After receiving a letter from Milo, approach Gregor to ask about selling his mansion. Use the info in the letter to make a compelling argument.
 - ### Round 2:
-	- task1
-	- task2
-	- task3
+	- task1: If approached by Milo asking about work, tell him about your contracts with General Grey and Nathan.
+	- task2: Talk to Ziti about what the plans are for Rigatoni's old place. Offer your condolences.
+	- task3:
 - ### Round 3:
-	- task1
-	- task2
+	- task1: Talk to Orzo about what the plans are for Rigatoni's old place. Offer your condolences.
+	- task2: Chat with James about the evening. Ask him if he's seen anything of note.
 	- task3
 	- Identify the murderer(s)!

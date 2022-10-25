@@ -19,10 +19,10 @@ ___
 	- task2:  Speak to [[Wine Collector|Gregor]] and try to get a feel for how interested in this bottle he is.
 	- task3:  Confide in [[Detective|Keith Hartley]] that you recently sold Peinture Célèbre, a painting Reuben had given you as a gift. You're hoping that you can use the money to win tonight's bottle.
 - ### Round 2:
-	- task1
-	- task2
-	- task3
+	- task1: Seek out Giovanni and see if you can strike up a business deal now that Gregor is gone.
+	- task2: Talk with Anton and tell him that you've never been happier to lose a bid on a bottle of wine. Mention that surely either of us would have been able to taste if something was off.
+	- task3:
 - ### Round 3:
 	- task1: If Reuben Barlow asks you about Giovanni Bishop, tell him you don't know anything about the man except that he makes good wine.
-	- task2
+	- task2: Attempt to find the Boisson 66 that was opened earlier in the evening. (Surely, no one will miss it.)
 	- task3

@@ -19,12 +19,12 @@ ___
 - ### Round 1:
 	- task1: If asked about the bank account for tonight's auction, assure the asker that everything is squared away.
 	- task2: If complained to about Rebecca Ramos, offer that you may be able to help.
-	- task3: If given info from Rakeeta Brown, let Penelope Hunt know. As a realtor, this is information she would very much like to know.
+	- task3: If given a letter from Rakeeta Brown about Gregor, give it to Penelope Hunt. As a realtor, this is information she would very much like to know.
 - ### Round 2:
-	- task1
-	- task2
-	- task3
+	- task1: If approached about the legitmacy of the auction, admit that it is fake but ask to keep it on the downlow. Offer to give them a piece of the pie if they do so.
+	- task2: Talk to Penelope and ask how her job is going.
+	- task3:
 - ### Round 3:
 	- task1: Warn Rebecca Ramos that if she doesn't pay Diana for the dress soon, there may be legal action
-	- task2
-	- task3
+	- task2: Talk to Jim and let him know if he is in on any of *these* murders, you can help get him out of it.
+	- task3:

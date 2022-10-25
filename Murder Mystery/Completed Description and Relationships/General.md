@@ -27,4 +27,4 @@ ___
 - ### Round 3:
 	- task1: You've been too nervous to approach Sophia Bird until now, but you've finally mustered up the courage to introduce yourself. Tell her what a big fan you are.
 	- task2: Order a Black Hawk Down from Frank Larsen.
-	- task3
+	- task3: If approached by Rakeeta asking about Milo, tell her what Nathan vented to you about Milo in round two.

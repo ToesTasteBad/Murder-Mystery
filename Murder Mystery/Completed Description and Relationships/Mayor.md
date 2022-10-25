@@ -23,11 +23,11 @@ ___
 	- task2: If Blair Ashleigh tells you about her recent success, congratulate her, and remind her not to forget where her career started! 
 	-  task3: After Keith speaks with you. Speak to Milo about Sophia's gin. Tell him you find it strange that Frank won't use her gin. You quite like the stuff!
 - ### Round 2:
-	- task1: If Harvey gives you any information on Anton, share this with Poppy.
-	- task2: After being approached by Poppy, talk to Senator Ramos about the same topic. Ask if he's noticed the same thing.
-	- task3
+	- task1: If Harvey shares an article with you pass it along to Poppy. 
+	- task2: 
+	- task3: After being approached by Poppy, talk to Senator Ramos about the same topic. Ask if he's noticed the same thing.
 - ### Round 3:
-	- task1
-	- task2
-	- task3
+	- task1: If approached by Milo about tonights events, loudly insist that you would NEVER participate in any illegal action!
+	- task2: Chat with Keith and ask if he has any theories on whose behind tonights murders!
+	- task3: If approached by Penelope, chat about how you got Gregor to open his 66 Boisson.
 	- Identify the murderer(s)!

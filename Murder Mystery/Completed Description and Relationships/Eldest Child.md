@@ -25,6 +25,6 @@ ___
 	- task2: If you're confronted by Darren Kaufman, ask him if ever really believed that you would go into partnerhip with someone who wouldn't know quality food if it slapped in the face.
 	- task3
 - ### Round 3:
-	- task1: 
+	- task1: If Penelope asks about Rigatoni's old house, tell her you've been meaning to get rid of that old dump.
 	- task2
 	- task3: Meet Nathan Cain in Sam's office at 9:00.

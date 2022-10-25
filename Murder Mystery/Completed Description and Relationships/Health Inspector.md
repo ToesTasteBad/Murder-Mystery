@@ -26,6 +26,5 @@ ___
 	- task2: Relay Orzo's answer to Harvey Davenport. This is some hot gos.
 	- task3: Speak to Mayor Hudson about what your heard from Arthur earlier in the night. Comment that you might not be able to eat there anymore if him and Frank can't learn to get along.
 - ### Round 3:
-	- task1
-	- task2
-	- task3
+	- task1: Approach Giovanni and give him a hard time for being absent on the golf course. 
+	- task2: Appraoch Darren and tell him that any new business venture he's thinking about starting should be more up to code than WcRonalds!

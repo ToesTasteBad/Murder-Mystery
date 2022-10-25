@@ -20,10 +20,10 @@ ___
 	- task2: When Darren Kaufman speaks to you, also lament to him about the knife.
 	- task3: When Stephen Ramos speaks to you, again lament to him about the knife.
 - ### Round 2:
-	- task1:
-	- task2
+	- task1: If approached about Rigatoni's old house, complain that if Orzo hasn't sold it by now he probably will soon just like everything else dad use to own!
+	- task2:
 	- task3: Instead of attending the second auction, stay upstairs and admit to Jodi that the knife being sold isn't actually your father's. You couldn't bare to see it fall into the hands of some stranger, so you had swapped it out a few days back.
 - ### Round 3:
 	- task1: Order a Midori Sour from Frank Larsen's secret menu.
-	- task2
+	- task2: Talk to Erik Howell and see if Orzo has tried to sell him Rigatoni's restaurant as well. Orzo seems to be selling off everything else!
 	- task3
