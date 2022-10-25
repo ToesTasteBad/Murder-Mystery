@@ -4,7 +4,7 @@ Our black tie Halloween murder mystery is just around the corner, and there are 
 
 You will be playing Erik Howell.
 
-You are the owner of one of the best restaurants in the city, La Bouffe. Saturday's event is in honor of Rigatoni Alfredo, an excellent chef, and the owner and head chef of a rival restaurant with the same name. He recently died and his restaurant was passed on to his protege, Puck Augustini. To be honest, the shift has been very good for you. Augustini is pulling fewer customers than Alfredo could, while for you business is booming. That said, you always respected the dead chef, and will try your best to make a good showing tonight.
+You are the owner of one of the best restaurants in Flavortown, La Bouffe. Saturday's event is in honor of Rigatoni Alfredo, an excellent chef, and the owner and head chef of a rival restaurant with the same name. He recently died and his restaurant was passed on to his protege, Puck Augustini. To be honest, the shift has been very good for you. Augustini is pulling fewer customers than Alfredo could, while for you business is booming. That said, you always respected the dead chef, and will try your best to make a good showing tonight.
 
 Here are a few people you may recognize at the party:
 

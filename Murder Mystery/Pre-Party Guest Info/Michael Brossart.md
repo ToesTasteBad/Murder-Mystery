@@ -4,7 +4,7 @@ Our black tie Halloween murder mystery is just around the corner, and there are 
 
 You will be playing Stephen Ramos.
 
-By day, you're a senator for the state of Minnesota. By night, an enjoyer of the finest cuisine this city has to offer. This event is to commemorate the death of Rigatoni Alfredo, an incredible chef. You were a frequent patron of his restaurant and have spent many evenings chatting with and enjoying the fine cocktails prepared by his bartender, Frank Larsen. In your spouse's opinion, you've been chatting with him a bit too much. As a senator, you're privy to a fair amount of classified information, and you may have recently let some state secrets slip. You trust the man, but your spouse seems very nervous about the whole thing. You're going to Saturday's event in part to make absolutely certain he stays quiet. And of course, you've never been one to say no to a fancy party.
+By day, you're a senator for the state of Minnesota. By night, an enjoyer of the finest cuisine Flavortown has to offer. This event is to commemorate the death of Rigatoni Alfredo, an incredible chef. You were a frequent patron of his restaurant and have spent many evenings chatting with and enjoying the fine cocktails prepared by his bartender, Frank Larsen. In your spouse's opinion, you've been chatting with him a bit too much. As a senator, you're privy to a fair amount of classified information, and you may have recently let some state secrets slip. You trust the man, but your spouse seems very nervous about the whole thing. You're going to Saturday's event in part to make absolutely certain he stays quiet. And of course, you've never been one to say no to a fancy party.
 
 Here are a few people you may recognize at the party:
 

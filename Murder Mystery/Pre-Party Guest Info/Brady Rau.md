@@ -4,7 +4,7 @@ Our black tie Halloween murder mystery is just around the corner, and there are 
 
 You will be playing Jim Hudson.
 
-You are the mayor of the city and are very well connected. To be honest, you achieved the mayorship through some... unsavory means, but you've heard that they're justified by the ends. Saturday's event is for one of the city's greatest chefs, Rigatoni Alfredo, who has recently passed. You'll schmooze and carouse and talk solemly about how the loss of Alfredo is a great blow to the city. That should earn you a rating point or two. Maybe you'll even make a good impression on a certain senator who is supposed to be in attendance.
+You are the mayor of Flavortown and are very well connected. To be honest, you achieved the mayorship through some... unsavory means, but you've heard that they're justified by the ends. Saturday's event is for one of Flavortown's greatest chefs, Rigatoni Alfredo, who has recently passed. You'll schmooze and carouse and talk solemly about how the loss of Alfredo is a great blow to the city. That should earn you a rating point or two. Maybe you'll even make a good impression on a certain senator who is supposed to be in attendance.
 
 Here are a few people you may recognize at the party:
 

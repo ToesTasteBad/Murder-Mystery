@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You're a model who's recently been gaining some extreme popularity. Tonight's event is an auction in honor of Rigatoni Alfredo, the famous chef. He was your boyfriend's mentor, and Puck seems seriously broken up about it. You're attending to support Puck, but it's also a great opportunity to rub shoulders with some of the city's elite. Apparently, most of them will be in attendance.
+You're a model who's recently been gaining some extreme popularity. Tonight's event is an auction in honor of Rigatoni Alfredo, the famous chef. He was your boyfriend's mentor, and Puck seems seriously broken up about it. You're attending to support Puck, but it's also a great opportunity to rub shoulders with some of Flavortown's elite. Apparently, most of them will be in attendance.
 
 ## Relationships
 ---

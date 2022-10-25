@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You are the head chef at La Bouffe, one of the finest restaurants in the city. Tonight's event is to commemorate the death of Rigatoni Alfredo, a chef you've always respected and considered a rival for years. People often compare you, and a review by [[Food Critic|Harvey Davenport]] cemented him as the better chef in the minds of many. You never held it against Alfredo though. You both drove each other to improve your cooking, and you wouldn't be the chef you are today without him.
+You are the head chef at La Bouffe, one of the finest restaurants in Flavortown. Tonight's event is to commemorate the death of Rigatoni Alfredo, a chef you've always respected and considered a rival for years. People often compare you, and a review by [[Food Critic|Harvey Davenport]] cemented him as the better chef in the minds of many. You never held it against Alfredo though. You both drove each other to improve your cooking, and you wouldn't be the chef you are today without him.
 
 ## Relationships
 ---

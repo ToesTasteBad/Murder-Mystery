@@ -4,7 +4,7 @@
 
 ## Description
 ---
-You are the city health inspector. As a result, you're familiar with many of the folks in the restaurant industry who treat you with differing levels of respect. Tonight's event is to commemorate the death of Rigatoni Alfredo. He was a good man with high standards for health and safety. You've heard Rigatoni's Protege, Puck, will be taking over Rigatoni's now that he has passed away, and need to make sure he's aware of your high standards.
+You are Flavortown's health inspector. As a result, you're familiar with many of the folks in the restaurant industry who treat you with differing levels of respect. Tonight's event is to commemorate the death of Rigatoni Alfredo. He was a good man with high standards for health and safety. You've heard Rigatoni's Protege, Puck, will be taking over Rigatoni's now that he has passed away, and need to make sure he's aware of your high standards.
 
 ## Relationships
 ---

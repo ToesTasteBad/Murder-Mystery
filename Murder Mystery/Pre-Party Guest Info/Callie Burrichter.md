@@ -4,11 +4,11 @@ Our black tie Halloween murder mystery is just around the corner, and there are 
 
 You will be playing Sophia Bird.
 
-You are a critically acclaimed actress who has just decided to take the next step into super-stardom: releasing your own brand of gin, Aeronautics. Saturday's event is to commemorate the death of the chef Rigatoni Alfredo, and all of this city's movers and shakers are going to be there. This could be a great chance to get the name of your new gin out there. All it will take is signing some autographs, placing some bids, and schmoozing it up with the world of haute cuisine.
+You are a critically acclaimed actress who has just decided to take the next step into super-stardom: releasing your own brand of gin, Aeronautics. Saturday's event is to commemorate the death of the chef Rigatoni Alfredo, and all of Flavortown's movers and shakers are going to be there. This could be a great chance to get the name of your new gin out there. All it will take is signing some autographs, placing some bids, and schmoozing it up with the world of haute cuisine.
 
 Here are a few people you may recognize at the party:
 
-- Frances Larsen - Bartender: He makes drinks for the city's most influential people. You've politely asked him to start using your gin, but he rudely refused.
+- Frances Larsen - Bartender: He makes drinks for Flavortown's most influential people. You've politely asked him to start using your gin, but he rudely refused.
 - Keith Hartley - Detective: Your boyfriend! A detective.
 - Jodi Souvid - Food TV Host: She keeps pestering you to go on her show.
 - Vladimir Grey - General: You don't know him personally but have heard rumors that he is a very big fan of yours!

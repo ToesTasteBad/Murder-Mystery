@@ -4,7 +4,7 @@ Our black tie Halloween murder mystery is just around the corner, and there are 
 
 You will be playing Arthur Cooke.
 
-You are the head chef at La Bouffe, one of the finest restaurants in the city. Saturday's event is to commemorate the death of Rigatoni Alfredo, a chef you've always respected and considered a rival for years. People often compare you, and a review by Harvey Davenport cemented him as the better chef in the minds of many. You never held it against Alfredo though. You both drove each other to improve your cooking, and you wouldn't be the chef you are today without him.
+You are the head chef at La Bouffe, one of the finest restaurants in Flavortown. Saturday's event is to commemorate the death of Rigatoni Alfredo, a chef you've always respected and considered a rival for years. People often compare you, and a review by Harvey Davenport cemented him as the better chef in the minds of many. You never held it against Alfredo though. You both drove each other to improve your cooking, and you wouldn't be the chef you are today without him.
 
 Here are a few people you may recognize at the party:
 
