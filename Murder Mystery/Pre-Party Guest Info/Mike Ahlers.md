@@ -8,7 +8,7 @@ You are an art collector and proprieter of Gallery 16 on the West side of town. 
 
 Here are a few people you may recognize at the party:
 
-- Giovanni Bishop - Vinter: The owner of an original Devoux. He claims he'll never part with it, but everyone has their price.
+- Giovanni Bishop - Vinter: The owner of an original Devoux painting. He claims he'll never part with it, but everyone has their price.
 - Daniel Pierce - Wine Collector: A good friend. You listen to all of his wine ramblings, and in return, he listens to all of your insight on art.
 - Blair Ashleigh - Model: Recently wore a print of one of the pieces in your collection during a photo shoot. A little bit blasphemous, but the publicity was worth it.
 - Keith Hartley - Detective: He's been seen snooping around your gallery. This makes you a bit nervous because, to be honest, not all of your pieces were acquired by entirely *legal* methods.

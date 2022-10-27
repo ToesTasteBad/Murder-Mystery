@@ -17,14 +17,14 @@ You are an accomplished author. You've spent the last 20 years of your life cran
 ___
 - ### Round 1:
 	- task1: Confide in Elizabeth Cain that Stephen has let some sensitive information slip to Frank Larsen. You're concerned about the effect it could have on your husband's career.
-	- task2:
-	- task3
+	- task2: Speak to Diana Saville, see if she's got anything new in the works you could wear.  If she brings up payment, shrug her off.
+	- task3: Speak to Puck Augustini, Rigatoni's protege, see if he'd be willing to let you write a biography about him and Rigatoni.
 - ### Round 2:
 	- task1: Verify that Frank Larsen won't let anything slip. Ask him if he's as discerning with his conversations as he is with his cocktails.
 	- task2: If [[Franchise Owner|Darren Kaufman]] speaks to you about one of your characters being based on him, assure him that your works are fictional and the characters within them aren't based on any real people, living or dead.
 	- task3: Make sure you attend the evening's second auction.
 - ### Round 3:
-	- task1: If warned about legal action, tell that you've been a bit preoccupied as of late, but you'll make sure to get to it in no time.
-	- task2
+	- task1: If warned about legal action, respond that you've been a bit preoccupied as of late, but you'll make sure to get to it in no time.
+	- task2: Talk to your husband to see how he's doing with Frank's death, at least he's not around to let anything slip anymore.
 	- task3
 	- Identify the murderer(s)!

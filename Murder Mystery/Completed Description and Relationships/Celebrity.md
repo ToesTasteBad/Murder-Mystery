@@ -18,11 +18,11 @@ You are a critically acclaimed actress who has just decided to take the next ste
 ___
 - ### Round 1: 
 	- task1: If Jodi Souvid approaches you about appearing on her show, tell her you'll get back to her later in the evening.
-	- task2: Complain to your boyfriend, Keith, that your frustrated that Frank has been refusing to  to use your gin.
+	- task2: Complain to your boyfriend, Keith, that you're frustrated that Frank has been refusing to use your gin.
 	- task3: Give Frank Larsen a bottle of Aeronautics to taste and try in his drinks. He's rejected it before, but tonight, you won't take no for an answer.
 - ### Round 2:
 	- task1
-	- task2
+	- task2: Ask Blair Ashleigh about her recent modeling work.  One up her with news of your new movie releases.  
 	- task3: When the evening's second auction is taking place, instead of attending, meet with Jodi Souvid upstairs about appearing on her show.
 - ### Round 3:
 	- task1: If approached by a big fan, offer to sign them an autograph!

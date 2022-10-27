@@ -9,16 +9,14 @@ Fix his Round 1
 Add another R3 task
 
 Art Collector:
-Update Devoux task to make clear it's a painting
-Add attend auction task to round 2
+
 
 Author:
-Libby needs more tasks
-Typo in round 3 task
+
 
 Celebrity:
 Needs more tasks
-Round 1 take 2 many typos
+
 
 Detective:
 Fix "the Jim"
@@ -81,7 +79,6 @@ Ask ghost Gregor about the 66 Boisson
 Secretary:
 
 Senator
-R2 T1 typos
 
 Sommelier
 Fix weird comma

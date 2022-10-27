@@ -20,11 +20,11 @@ ___
 	- task2: If approached by General Grey regarding the upcoming vote, tell him you are still thinking about it and that you are open to any "new arguments" (cough, cough... bribes) regarding the matter.
 	- task3
 - ### Round 2:
-	- task1: Accept the "new arguments" presented to you by the General given you conversation from earlier.
+	- task1: Accept the "new arguments" presented to you by the General given your conversation from earlier.
 	- task2: If approached by Mayor Hudson about Arthur and Frank, tell him you've known those two have been butting heads for a while.
 	- task3: Make sure you attend the evening's second auction.
 - ### Round 3:
 	- task1: If someone tells you to try their gin, insist that you will! (optionally, go order a gin drink from Ghost Frank)
 	- task2: Chat with Erik Howell and offer your assistance with training in Frank's replacement since you've had many of his drinks.
-	- task3
+	- task3: If your wife asks how you're dealing with Franks death, tell her you're sad it happened, but you're more sad that you bribed him first!
 	- Identify the murderer(s)!
