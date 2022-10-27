@@ -16,8 +16,8 @@ You are a detective for Flavortown and significant other to [[Celebrity|Sophia B
 ## Tasks
 ___
 - ### Round 1: 
-	- task1: If given some information from Daniel Pierce, share it with the Jim and Sophia. This is quite a big deal!
-	- task2: Complain to Mayor Hudson that Frank's refusal to use your girlfriends gin, is starting to drive her (and you!) crazy.
+	- task1: If given some information from Daniel Pierce, share it with Jim and Sophia. This is quite a big deal!
+	- task2: If Sophia complains to you about Frank and her gin, vent to Mayor Hudson about their dispute driving you crazy.
 	- task3: You've heard from Jim Hudson that Poppy Steinwell and Darren Kaufman don't get along too well.  Ask him to introduce you to Poppy, so you can offer her your services.
 - ### Round 2:
 	- task1: This death seems suspicious to you. You'd better be safe and run a check on the bottle. Bring the bottle to Frank Larsen, and tell him you need to run it through your detective-o-matic in the coat closet. Share the results with your fellow guests.

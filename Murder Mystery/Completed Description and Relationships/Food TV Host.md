@@ -21,9 +21,10 @@ ___
 	- task2: If Anton approaches asking about coming on your show, politely say you need more time to think about it.
 	- task3: Give a compliment to Sophia. Perhaps flattering her will wear her down into saying yes!
 - ### Round 2:
+	- task1: If Blair Ashleigh asks you about show biz, tell her you'd love to have her on your show sometime, and you could introduce her to your agent.
 	- task1: When the evening's second auction is taking place, instead of attending, stay upstairs.
 	- task2: While upstairs if approached by Ziti, act impressed by what he tells you. Inwardly, find what he tells you to be very strange.
-	- task3:  Also while upstairs, meet with Sophia Bird about appearing on her show.
+	- task3:  Also while upstairs, meet with Sophia Bird about her appearing on your show.
 - ### Round 3:
 	- task1: If Darren Kaufman tells you about his business woes, suggest that you two could form some sort of partnership instead.
 	- task2: After your conversation with Darren, tell General Grey about the outcome.

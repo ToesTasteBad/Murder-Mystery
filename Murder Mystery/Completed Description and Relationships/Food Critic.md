@@ -20,7 +20,8 @@ ___
 - ### Round 1:
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's an amazing bottle! You'll definetly be bidding.
 	- task2: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree. You have your eye on that bottle as well!
-	- task3: If Harvey vents to you about Gregor, note this and talk to Poppy about it.
+	- task3: If Anton vents to you about Gregor, note this and talk to Poppy about it.
+	- task4: If Arthur Cooke approaches you about a new review, tell him he better get his cooking up to Rigatoni's level if he wants to be the best, otherwise Puck Augustini might surpass him.
 - ### Round 2:
 	- task1: If you hear anything about Darren Kaufman tell him about it.
 	- task2: Speak to Anton about this new column you are starting. Ask him if he has that sample interview of his that you asked him for. 

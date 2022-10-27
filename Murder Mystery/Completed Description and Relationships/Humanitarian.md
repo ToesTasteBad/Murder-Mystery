@@ -23,7 +23,7 @@ ___
 	- task2: Warn Nathan Cain that the charity is fake.
 	- task3: Warn your dad, General Grey, that the charity is fake as well.
 - ### Round 3:
-	- task1: Order a drink of your choosing from Ghost Frank Larsen!
+	- task1: Order a drink Black Hawk Down (your father's favourite drink) from Ghost Frank Larsen!
 	- task2: If approached by Rakeeta about Milo, tell her you aren't sure and that she should talk to General Grey about it.
 	- Identify the murderer(s)!
 - ### Final Statement

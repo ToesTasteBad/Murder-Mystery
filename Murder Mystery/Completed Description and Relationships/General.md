@@ -18,16 +18,17 @@ You are an accomplished General in the US army. Tonight's event is an auction fo
 ## Tasks
 ___
 - ### Round 1:
-	- task1: If approached by Penelope about the cabin, tell her, her proposition is ridiculous. Calmly threaten that if she doesn't start attracting more serious offers, there is going to be consequences.
+	- task1: If approached by Penelope about the cabin, tell her that her proposition is ridiculous. Calmly threaten that there will be consequences if she doesn't start attracting more serious offers.
 	- task2: Share the info you learn from Jodi with Nathan.
 	- task3: Talk to Senator Ramos about the upcoming budget vote.
 - ### Round 2:
 	- task1: Ask the host (who may be a ghost) if you can borrow an envelope, for a totally legal reason.
 	- task2: Approach Senator Ramos about the "new arguments" you discussed earlier in the night and present him with it.
+	- If Nathan tells you someting about Milo, be sure to remember it.
 - ### Round 3:
 	- task1: You've been too nervous to approach Sophia Bird until now, but you've finally mustered up the courage to introduce yourself. Tell her what a big fan you are.
 	- task2: Order a Black Hawk Down from Frank Larsen.
-	- task3: If approached by Rakeeta asking about Milo, tell her what Nathan vented to you about Milo in round two.
+	- task3: If approached by Rakeeta asking about Milo, tell her what you learned from Nathan in round two.
 - ### Final Statement
 	- Gregor: I had no motive to kill Gregor Toussaint
 	- Frank: I had no motive to kill Frank Larsen

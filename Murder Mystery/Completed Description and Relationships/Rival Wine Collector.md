@@ -24,7 +24,7 @@ ___
 	- task3:
 - ### Round 3:
 	- task1: If Reuben Barlow asks you about Giovanni Bishop, tell him you don't know anything about the man except that he makes good wine.
-	- task2: Attempt to find the Boisson 66 that was opened earlier in the evening. (Surely, no one will miss it.)
+	- task2: Ask Ghost Gregor what happened to the '66 Boisson
 	- task3
 - ### Final Statement
 	- Gregor: I did not kill Gregor Toussaint. It's true that he was a constant thorn in my side, but even so, I didn't kill him. As I told Keith Hartley earlier in the evening. I recently sold a lovely painting I had been given as a gift so that I would have funds to bid on this bottle. I wouldn't have done that if I had intended to poison it.

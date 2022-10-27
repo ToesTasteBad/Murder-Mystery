@@ -25,7 +25,7 @@ ___
 - ### Round 3:
 	- task1: Order a Midori Sour from Frank Larsen's secret menu.
 	- task2: Talk to Rakeeta, Milo's secretary, and try to figure out if she was in on the auction scam as well.
-	- task3: At 9:00, meet Orzo Alfredo in Sam's office.
+	- task3: At 9:00, sneakily meet Orzo Alfredo in Sam's bedroom.
 - ### Final Statement
 	- Gregor: I had no motive to kill Gregor Toussaint
 	- Frank: I had no motive to kill Frank Larsen
