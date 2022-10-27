@@ -20,10 +20,9 @@ ___
 	- task2: Give heartfelt condolences to Puck Augustini and a curt greeting to his girlfriend, Blair Ashleigh.
 	- task3: Approach Blair and ask her once again if she would be interested in modeling one of your designs.
 - ### Round 2:
-	- task1: When the second auction begins. Stay upstairs.
-	- task2: Try to find Blair and chat about some design tweaks she would be willing to get behind.
-	- task3
+	- task1: Get a pour of whiskey from the bar and tell Frank about your new line of clothing.
+	- task2: When the second auction begins. Stay upstairs and wait for Blair, chat about some design tweaks she would be willing to get behind.
 - ### Round 3:
 	- task1: Talk to Jodi Souvid about gaining her endorsement on your new food themed clothing line.
-	- task2
+	- task2: If approached about designing restraunt attire, agree to do so, but caution the asker about the excessively revealing nature of your new line.
 	- task3

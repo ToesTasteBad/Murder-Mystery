@@ -18,13 +18,13 @@ ___
 - ### Round 1: 
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It is quite the specimen and you would very much like to win it!
 	- task2:  Speak to Jodi and ask if she has thought any more about doing a wine episode together.
-	- task3: Confide in Harvey, your thoughts on Gregor's relationship with wine. Money and interest do NOT make up for a weak palette.
+	- task3: Confide in Harvey how you feel about Gregor's relationship with wine: His money and interest do NOT make up for a weak palette.
 - ### Round 2:
 	- task1: Speak to Harvey about the new column you are starting. Provide him the sample interview you did, to give him a better idea of the type of sommelier you are.
 	- task2: If approached about Gregor, half heartedly share your condolences and then muse about what will happen to his collection.
 	- task3
 - ### Round 3:
-	- task1: Approach Giovanni about the cutting of your percentage on the wines you stamp. Tell him, people are writing articles about you now and you deserve more.
-	- task2: Find the 66 Boisson that was opened earlier. Surely you wouldn't let it go to waste!
+	- task1: Approach Giovanni about the cutting of your kick back on the wines you stamp. Tell him, people are writing articles about you now and you deserve more.
+	- task2: Ask Ghost Gregor about the '66 Boisson that he opened earlier.
 	- task3:
 	- Identify the murderer(s)!

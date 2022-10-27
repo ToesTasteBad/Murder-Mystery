@@ -24,5 +24,5 @@ ___
 	- task3:
 - ### Round 3:
 	- task1: If Reuben Barlow asks you about Giovanni Bishop, tell him you don't know anything about the man except that he makes good wine.
-	- task2: Attempt to find the Boisson 66 that was opened earlier in the evening. (Surely, no one will miss it.)
+	- task2: Ask Ghost Gregor what happened to the '66 Boisson
 	- task3

@@ -19,9 +19,9 @@ ___
 	- task1: If greeted by Diana Seville, tell her for the uptenth time that you don't like her designs. However, you find her persistance to be impressive. Ask her if she would meet you later to discuss possible tweaks that you might be able to get behind.
 	- task2: Introduce yourself to the mayor, Jim Hudson. Tell him about your recent success and that you hope to see him at more parties like this in the future.
 - ### Round 2:
-	- task1: Make sure to attend the second auction with Puck. Make sure you have a drink with you.
-	- task2: At some point early in the bidding, ask puck to hold your drink and go upstairs. The bidding is just a bit too much for you. 
-	- task3: While upstairs, try to find Diana to talk about those design tweaks.
+	- task1: If Sophia Bird brags about her recent movies to you, find Jodi Souvid to see if she could help you break into the world of TV and movies so you can get one back on Sophia.
+	- task2: Attend the second auction with Puck and make sure you have a drink with you.
+	- task3: At some point early in the bidding, ask puck to hold your drink and go upstairs. The auction is boring, try to find Diana to talk about those design tweaks.
 - ### Round 3:
 	- task1: If approached about wearing art, suggest that royalties could be worked out in the future.
 	- task2: If given a heartfelt speech about mortality, agree that you should make up.

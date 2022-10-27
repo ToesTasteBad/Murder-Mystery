@@ -21,9 +21,8 @@ ___
 	- task2: Complain to your boyfriend, Keith, that you're frustrated that Frank has been refusing to use your gin.
 	- task3: Give Frank Larsen a bottle of Aeronautics to taste and try in his drinks. He's rejected it before, but tonight, you won't take no for an answer.
 - ### Round 2:
-	- task1
-	- task2: Ask Blair Ashleigh about her recent modeling work.  One up her with news of your new movie releases.  
-	- task3: When the evening's second auction is taking place, instead of attending, meet with Jodi Souvid upstairs about appearing on her show.
+	- task1: Ask Blair Ashleigh about her recent modeling work.  One up her with news of your new movie releases: "Free Lady", "Green Notice", and "Deadpool 3"
+	- task2: When the evening's second auction is taking place, instead of attending, meet with Jodi Souvid upstairs about appearing on her show.
 - ### Round 3:
 	- task1: If approached by a big fan, offer to sign them an autograph!
 	- task2: This is a good chance to meet some influential people. Introduce yourself to Stephen Ramos. Make sure to casually mention your new gin.

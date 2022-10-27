@@ -26,7 +26,7 @@ ___
 	- task2: Attend the auction
 	- task3:
 - ### Round 3:
-	- task1: Ask Daniel Pierce if he, as a member of the wine community, knows what Giovanni Bishop has against you.
+	- task1: Ask Daniel Pierce if he, as a member of the wine community, knows if Giovanni has any other exquisite artwork that he's hiding.
 	- task2: Congratulate Blair Ashleigh on her success wearing your art. Mention that people often charge steep royalties for such things. (You would be willing to overlook that this time if she would go through the proper channels in the future.)
 	- task3
 	- Identify the murderer(s)!

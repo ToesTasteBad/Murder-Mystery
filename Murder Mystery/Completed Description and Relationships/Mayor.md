@@ -19,7 +19,7 @@ You are the mayor of Flavortown and are very well connected. To be honest, you a
 ## Tasks
 ___
 - ### Round 1: 
-	- task1:  If someone tell's you they've been dying to try Gregor's '66 Boisson, suggest that you may be able to help convince him to pop open the bottle. It is a special occasion after all. Go to Gregor together, and ask about the bottle.
+	- task1:  If someone tells you they've been dying to try Gregor's '66 Boisson, suggest that you may be able to help convince him to open the bottle. It is a special occasion after all. Go to Gregor together, and ask about the bottle.
 	- task2: If Blair Ashleigh tells you about her recent success, congratulate her, and remind her not to forget where her career started! 
 	-  task3: After Keith speaks with you. Speak to Milo about Sophia's gin. Tell him you find it strange that Frank won't use her gin. You quite like the stuff!
 - ### Round 2:
@@ -27,7 +27,7 @@ ___
 	- task2: 
 	- task3: After being approached by Poppy, talk to Senator Ramos about the same topic. Ask if he's noticed the same thing.
 - ### Round 3:
-	- task1: If approached by Milo about tonights events, loudly insist that you would NEVER participate in any illegal action!
-	- task2: Chat with Keith and ask if he has any theories on whose behind tonights murders!
-	- task3: If approached by Penelope, chat about how you got Gregor to open his 66 Boisson.
+	- task1: If approached by Milo about tonight's events, loudly insist that you would NEVER participate in any illegal action!
+	- task2: Chat with Keith and ask if he has any theories on whose behind tonight's murders!
+	- task3: If approached by Penelope, chat about how you got Gregor to open his '66 Boisson.
 	- Identify the murderer(s)!

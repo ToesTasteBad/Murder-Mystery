@@ -25,5 +25,5 @@ ___
 	- task2: Make sure you attend the evening's second auction.
 - ### Round 3:
 	- task1: If asked about your plans, say that you've got some incredible new dishes in the works, and that if they really want to know about them, they'll have to swing by La Bouffe.
-	- task2: 
+	- task2: Find Diana Saville and ask her if she'd desing something special for La Bouffe, to help you elevate your restraunt.
 	- task3

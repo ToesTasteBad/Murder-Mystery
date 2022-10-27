@@ -17,14 +17,14 @@ You are the eldest son of recently deceased chef, Rigatoni Alfredo. You are resp
 ## Tasks
 ___
 - ### Round 1: 
-	- task1: Confirm with Milo Steinwell that the money from tonight's auction will go into the account you discussed previously. TODO revisit this.
+	- task1: Confirm with Milo Steinwell that the money from tonight's auction will go into the account you discussed previously. 
 	- task2: If approached by Puck Augustini, loudly proclaim that your only regret is that such an uncultured lout is taking over for your father.
 	- task3: If asked about a franchise partnership, feign interest in order to get some free tips on starting your own.
 - ### Round 2:
 	- task1: If asked about business partnership with Kaufman, admit that you have no intention of actually partnering with him. You're just trying to score some free advice.
-	- task2: If you're confronted by Darren Kaufman, ask him if ever really believed that you would go into partnerhip with someone who wouldn't know quality food if it slapped in the face.
+	- task2: If you're confronted by Darren Kaufman, ask him if he ever really believed that you would go into partnerhip with someone who wouldn't know quality food if it slapped him in the face.
 	- task3
 - ### Round 3:
 	- task1: If Penelope asks about Rigatoni's old house, tell her you've been meaning to get rid of that old dump.
 	- task2
-	- task3: Meet Nathan Cain in Sam's office at 9:00.
+	- task3: Meet Nathan Cain in Sam's bedroom at 9:00.

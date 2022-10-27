@@ -20,7 +20,7 @@ ___
 	- task2: Give your condolences to Ziti on the loss of his father.
 	- task3: If someone approaches you asking about any new business dealings you've been involved in, tell them you and Orzo Alfredo are going to be going into buisness together.
 - ### Round 2:
-	- task1: If someone tell you something about your partnership with Orzo, confront Orzo about it.
+	- task1: If you hear something about your partnership with Orzo, confront him about it.
 	- task2: Mention to Rebecca Ramos that you don't appreciate the way she portrays you in her books.
 	- task3: Ask Rakeeta Brown if she's fallen in any other restaurants lately.
 - ### Round 3:
