@@ -27,3 +27,7 @@ ___
 	- task1: If asked about your plans, say that you've got some incredible new dishes in the works, and that if they really want to know about them, they'll have to swing by La Bouffe.
 	- task2: 
 	- task3
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I did not kill Frank Larsen. I admit that we had our differences. For a long time, neither of us was willing to work with the other, but I've turned over a new leaf. Look at the recipe card I made up. It proves that I had been willing to compromise with Frank before he was killed. I wouldn't have gone to the effort if I was just going to kill the guy.
+	- Orzo: I had no motive to kill Orzo Alfredo

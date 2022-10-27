@@ -25,3 +25,7 @@ ___
 	- task1: Ask Elizabeth Cain about a rumor you heard around the office about tonights auction. You couldn't make out all the details, but you defiently saw Milo getting a bit too excited about the auction at the office.
 	- task2: Fill Reuben in on what you learned from your conversation with Elizabeth.
 	- task3
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

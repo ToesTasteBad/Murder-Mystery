@@ -28,3 +28,7 @@ ___
 	- task1: Warn Rebecca Ramos that if she doesn't pay Diana for the dress soon, there may be legal action
 	- task2: Talk to Jim and let him know if he is in on any of *these* murders, you can help get him out of it.
 	- task3:
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I did not kill Orzo Alfredo. It's true that I was in on the scam auction, and that I had access to the bank account all of tonight's profits were going to, but I didn't kill the man. The apron that was used to kill him had a green stain on it, and I never ordered a green drink.

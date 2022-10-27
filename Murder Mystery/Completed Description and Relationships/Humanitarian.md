@@ -26,3 +26,7 @@ ___
 	- task1: Order a drink of your choosing from Ghost Frank Larsen!
 	- task2: If approached by Rakeeta about Milo, tell her you aren't sure and that she should talk to General Grey about it.
 	- Identify the murderer(s)!
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

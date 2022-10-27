@@ -25,3 +25,7 @@ ___
 - ### Round 3:
 	- task1: If approached about wearing art, suggest that royalties could be worked out in the future.
 	- task2: If given a heartfelt speech about mortality, agree that you should make up.
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

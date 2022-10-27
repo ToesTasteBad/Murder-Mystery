@@ -27,3 +27,7 @@ ___
 	- task1: Order a Midori Sour from Frank Larsen's secret menu.
 	- task2: Complain to Jodi Souvid about Orzo's rude behavior.
 	- task3: If another business opportunity is presented to you, brag about it to everyone who will listen.
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I did not kill Orzo Alfredo. He did do me dirty. He implied that he was interested in going into business, but actually, he was just using me to get a head start on his own chain restaurant. I wasn't happy about it, but when Jodi offered to partner up, none of that mattered anymore. How could I stay mad about Orzo when something so much better had come along?

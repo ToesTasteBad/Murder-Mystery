@@ -32,3 +32,7 @@ ___
 	- task2: You've had a long night. Order a drink from Ghost Frank.
 	- task3:
 	- Identify the murderer(s)!
+- ### Final Statement
+	- Gregor: I killed Gregor Toussaint... But it was an accident! For years, he's been one of my primary investors, but his exorbitant bidding in wine auctions just like this one have been making his payments less and less consistent. And it's all thanks to Daniel Pierce! If you didn't make such a habit of pushing up Gregor's bids, it never would have come to this. I tried convincing him not to bid tonight. My hope was that Daniel would win the bottle, and that with his competition eliminated, Gregor could have the funds to both win wine auctions and support my vineyard. Unfortunately, it didn't work out that way... This won't have a negative impact on our new investment deal... right Daniel?
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

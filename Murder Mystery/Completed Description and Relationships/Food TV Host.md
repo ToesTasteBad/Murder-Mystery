@@ -28,3 +28,7 @@ ___
 	- task1: If Darren Kaufman tells you about his business woes, suggest that you two could form some sort of partnership instead.
 	- task2: After your conversation with Darren, tell General Grey about the outcome.
 	- task3: If approached about an endorsement, say that you have a lot on your mind right now, but you'll consider it!
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

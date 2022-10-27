@@ -30,3 +30,7 @@ ___
 	- task2: Have basically the same conversation with Puck Augustini.
 	- task3
 	- Identify the murderer(s)!
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

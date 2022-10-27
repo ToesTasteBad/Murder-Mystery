@@ -28,3 +28,7 @@ ___
 	- task1: If approached by a big fan, offer to sign them an autograph!
 	- task2: This is a good chance to meet some influential people. Introduce yourself to Stephen Ramos. Make sure to casually mention your new gin.
 	- task3: Tell Blair that confronting your mortality has made you realize how insignificant your differences are.
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I did not kill Frank Larsen. It's true that he snubbed my gin, threatening to hurt its success all across Flavortown, but as I was upstairs meeting with Jodi Souvid at the time of the murder, I couldn't have killed Frank Larsen.
+	- Orzo: I had no motive to kill Orzo Alfredo

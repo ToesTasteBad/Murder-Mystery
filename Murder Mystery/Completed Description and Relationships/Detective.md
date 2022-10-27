@@ -27,3 +27,7 @@ ___
 	- task1:  Search Frank Larsen's jacket for clues to his murder.  
 	- task2: If approached about who you think is behind tonights events give your honest opinion.
 	- task3
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

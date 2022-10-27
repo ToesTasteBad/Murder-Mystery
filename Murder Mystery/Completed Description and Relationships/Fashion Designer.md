@@ -27,3 +27,7 @@ ___
 	- task1: Talk to Jodi Souvid about gaining her endorsement on your new food themed clothing line.
 	- task2
 	- task3
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

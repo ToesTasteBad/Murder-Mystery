@@ -18,7 +18,7 @@ ___
 - ### Round 1: 
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It is quite the specimen and you would very much like to win it!
 	- task2:  Speak to Jodi and ask if she has thought any more about doing a wine episode together.
-	- task3: Confide in Harvey, your thoughts on Gregor's relationship with wine. Money and interest do NOT make up for a weak palette.
+	- task3: Confide in Harvey, your thoughts on Gregor's relationship with wine. Money and interest do NOT make up for a weak palate.
 - ### Round 2:
 	- task1: Speak to Harvey about the new column you are starting. Provide him the sample interview you did, to give him a better idea of the type of sommelier you are.
 	- task2: If approached about Gregor, half heartedly share your condolences and then muse about what will happen to his collection.
@@ -28,3 +28,7 @@ ___
 	- task2: Find the 66 Boisson that was opened earlier. Surely you wouldn't let it go to waste!
 	- task3:
 	- Identify the murderer(s)!
+- ### Final Statement
+	- Gregor: I did not kill Gregor Toussaint. It's true that he and I had our differences. Him with his boorish and uncultured palate, and me with my ascended sense of taste, but I certainly didn't kill the man. If any of you have read my recent BuzzFeed interview, it's clear that I would never tarnish a bottle of wine with anything. Certainly not poison.
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

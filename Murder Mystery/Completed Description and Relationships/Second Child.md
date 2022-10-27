@@ -27,3 +27,7 @@ ___
 	- task1: Order a Midori Sour from Frank Larsen's secret menu.
 	- task2: Talk to Erik Howell and see if Orzo has tried to sell him Rigatoni's restaurant as well. Orzo seems to be selling off everything else!
 	- task3
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I did not kill Orzo Alfredo. It's true that he had swooped in, selling off all of our father's prized possessions without warning, most importantly his chef's knife. But as I confessed to Jodi during the second auction, I secretly stole the actual knife a few days ago, replacing it with a fake. With the knife safely in my possession, I had no real reason to kill Orzo.

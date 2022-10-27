@@ -28,3 +28,7 @@ ___
 	- task2: Chat with James about the evening. Ask him if he's seen anything of note.
 	- task3
 	- Identify the murderer(s)!
+- ### Final Statement
+	- Gregor: I did not kill Gregor Toussaint. It's true that I could have profitted considerably if he had been willing to sell his house, but that didn't give me a reason to kill him. What's more, my fingerprints weren't on the wine bottle.
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

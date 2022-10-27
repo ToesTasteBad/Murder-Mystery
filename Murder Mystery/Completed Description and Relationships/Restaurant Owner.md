@@ -30,3 +30,7 @@ ___
 	- task1: If asked about who Frank's replacement will be, tell them "Too soon man."
 	- task2: Order a Midori Sour from Ghost Frank.
 	- task3: 
+- ### Final Statement
+	- Gregor: I did not kill Gregor Toussaint. My only reason to kill him was that he would never share his wines, but tonight, he did! 
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

@@ -28,3 +28,7 @@ ___
 	- task2: Chat with Erik Howell and offer your assistance with training in Frank's replacement since you've had many of his drinks.
 	- task3: If your wife asks how you're dealing with Franks death, tell her you're sad it happened, but you're more sad that you bribed him first!
 	- Identify the murderer(s)!
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I did not kill Frank Larsen. It's true that I may have accidentally spilled a few state secrets to the man, but I trusted him even before I gave him the bribe! I certainly wouldn't have bribed him if I had intended to kill him.
+	- Orzo: I had no motive to kill Orzo Alfredo

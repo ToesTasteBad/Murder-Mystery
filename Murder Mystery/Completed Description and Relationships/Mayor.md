@@ -31,3 +31,7 @@ ___
 	- task2: Chat with Keith and ask if he has any theories on whose behind tonights murders!
 	- task3: If approached by Penelope, chat about how you got Gregor to open his 66 Boisson.
 	- Identify the murderer(s)!
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo

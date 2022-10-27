@@ -28,3 +28,7 @@ ___
 	- task2: Talk to your husband to see how he's doing with Frank's death, at least he's not around to let anything slip anymore.
 	- task3
 	- Identify the murderer(s)!
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I killed Frank Larsen. In a bout of indiscretion, my husband let state secrets slip. He was convinced that a simple bribe would be enough to keep Frank's mouth shut, but after talking to him myself, I wasn't convinced. When the lights went out during the second auction, I saw an opportunity to solve our little problem, and I took it.
+	- Orzo: I had no motive to kill Orzo Alfredo

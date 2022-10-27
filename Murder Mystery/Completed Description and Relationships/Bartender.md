@@ -28,3 +28,4 @@ ___
 	- task3: Attend the auction to see who is going to win your old friends knife
 - ### Round 3:
 	- task1: You are dead! (also, if someone orders a black hawk down, that's a blackberry daiquiri)
+	- Identify the murderer(s)!

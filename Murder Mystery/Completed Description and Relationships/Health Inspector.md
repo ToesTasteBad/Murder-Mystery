@@ -28,3 +28,7 @@ ___
 - ### Round 3:
 	- task1: Approach Giovanni and give him a hard time for being absent on the golf course. 
 	- task2: Appraoch Darren and tell him that any new business venture he's thinking about starting should be more up to code than WcRonalds!
+- ### Final Statement
+	- Gregor: I had no motive to kill Gregor Toussaint
+	- Frank: I had no motive to kill Frank Larsen
+	- Orzo: I had no motive to kill Orzo Alfredo
