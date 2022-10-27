@@ -1,0 +1,13 @@
+Welcome to the Murder Mystery! Before we get started, there a couple of things you need to know.
+- This is a Murder Mystery and you're all here to solve it!
+- The evening will be broken into 30 minute rounds.
+- You've all been assigned characters, and over the course of the evening, you will be given tasks to complete. It's very important that you complete them! The mystery may become impossible to solve if you don't. 
+- If your task starts with text like, "If X approaches you", wait for that person to approach you before completing the rest of the task. If your task doesn't start with an if statement, try to complete it early in the round, to give other people time to complete any tasks it may trigger.
+- When you're not busy with tasks, you DO NOT have to stay in character. Feel free to just hang out/drink/talk.
+- You're also welcome to stay in character if you prefer! But remember, only the stuff in your descriptions/relationships/tasks is canon, and if you start making a bunch of stuff up, you may accidentally become the prime suspect for a murder you didn't commit (which is bad)
+- Eavesdropping on other people completing their tasks is encouraged!
+- At the end of the night, you'll have to guess at who the murderer (or murderers) is! (or are!)
+- Many tasks do have scripted responses, but some don't! Don't worry about it!
+- If you have task to give someone information, but you have no idea what that information is, feel free to ask one of us about it!
+- If you're nearing the end of a round, and you have a task that sounds like someone is supposed to approach you, but they haven't yet, feel free to go give them a nudge.
+- Have fun!
