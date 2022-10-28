@@ -18,7 +18,7 @@ You are an art collector and proprieter of Gallery 16 on the West side of town. 
 ## Tasks
 ___
 - ### Round 1:
-	- task1: Give your condolences to [[Eldest Child|Ziti Alfredo]], and inquire about the painting you sold their father.
+	- task1: Give your condolences to [[Eldest Child|Ziti Alfredo]], and inquire about the painting you sold his father.
 	- task2: Speak to [[Wine Collector|Giovanni Bishop]] about his Devoux painting. See if he will sell it to you.
 	- task3: After speaking to Giovanni, pass along what you learned about Gregor to Rakeeta. Give her the letter.
 - ### Round 2:

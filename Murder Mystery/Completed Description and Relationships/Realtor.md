@@ -17,7 +17,7 @@ You are a realtor who has managed to break into the wealthy crowd and have been 
 ## Tasks
 ___
 - ### Round 1:
-	- task1: Speak to Vladimir about the cabin. Ask if he will consider dropping the asking price by $30k. Explain to him, again, that hes asking to much.
+	- task1: Speak to Vladimir about the cabin. Ask if he will consider dropping the asking price by $30k. Explain to him, again, that he's asking too much.
 	- task2: After receiving a letter from Milo, approach Gregor to ask about selling his mansion. Use the info in the letter to make a compelling argument.
 - ### Round 2:
 	- task1: If approached by Milo asking about work, tell him about your contracts with General Grey and Nathan.

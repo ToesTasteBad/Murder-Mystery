@@ -28,7 +28,7 @@ ___
 	- task2: If approached by Daniel Pierce with an investment offer, tell him you'll accept as long as he doesn't get carried away with extravagant wines like Gregor did.
 	- task3:
 - ### Round 3:
-	- task1: If Anton approaches about the kick back, inform him you've managed to secure some additional revenue streams and that he should be able to restore your cut.
+	- task1: If Anton approaches about the kick back, inform him you've managed to secure some additional revenue streams and that you should be able to restore his cut.
 	- task2: You've had a long night. Order a drink from Ghost Frank.
 	- task3:
 	- Identify the murderer(s)!

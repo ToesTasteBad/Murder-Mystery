@@ -12,7 +12,6 @@ You are a Secretary at one of the law offices in town. As such, you tend to over
 - [[Lawyer|Milo Steinwell - Lawyer]]  - Milo is one of the Lawyers who works at your office. You and him get along well enough, though you've overheard him talking about the Mayor a number of times.
 - [[Humanitarian|Elizabeth Cain - Humanitarian]]  - You use to work as Elizabeth's secretary at the non-profit she is now director of, Fine Cuisine for Impoverished Teens. She was a great boss, but being at a non-profit the pay and benefits couldn't come close to what you got offered at the Law offices.
 - [[Franchise Owner|Darren Kaufman - Franchise Owner]] - Darren is the owner of WcRonald's. You had a run in with him two years ago, after you slipped and injured yourself at his restaurant with no signage posted. You sued, using a lawyer you don't work with so as not to draw suspicion, and ultimately settled very heavily in your favor.
-- 
 ## Tasks
 ___
 - ### Round 1: 
@@ -22,7 +21,7 @@ ___
 	- task1: If asked about Reuben's paintings, insist that they were all purchased legally, and warn Reuben about who was asking.
 	- task2: If anyone makes a rude fall-related remark, respond that you've only dined at respectable establishments as of late, and *they* know how to put up wet floor signs.
 - ### Round 3:
-	- task1: Ask Elizabeth Cain about a rumor you heard around the office about tonights auction. You couldn't make out all the details, but you defiently saw Milo getting a bit too excited about the auction at the office.
+	- task1: Ask Elizabeth Cain about a rumor you heard around the office about tonight's auction. You couldn't make out all the details, but you definitely saw Milo getting a bit too excited about the auction at the office.
 	- task2: Fill Reuben in on what you learned from your conversation with Elizabeth.
 	- task3
 - ### Final Statement

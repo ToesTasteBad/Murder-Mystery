@@ -18,7 +18,7 @@ ___
 - ### Round 1: 
 	- task1: Mention to Orzo Alfredo that you'd be interested in using his father's name on your menu. It could be lucrative for both of you.
 	- task2: Give your condolences to Ziti on the loss of his father.
-	- task3: If someone approaches you asking about any new business dealings you've been involved in, tell them you and Orzo Alfredo are going to be going into buisness together.
+	- task3: If someone approaches you asking about any new business dealings you've been involved in, tell them you and Orzo Alfredo are going to be going into business together.
 - ### Round 2:
 	- task1: If you hear something about your partnership with Orzo, confront him about it.
 	- task2: Mention to Rebecca Ramos that you don't appreciate the way she portrays you in her books.

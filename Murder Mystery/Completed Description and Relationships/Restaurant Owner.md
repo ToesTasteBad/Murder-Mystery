@@ -25,9 +25,9 @@ ___
 - ### Round 2:
 	- task1: Tell Arthur that Frank is here to stay, and Arthur needs to figure out how to work with him.
 	- task2: Talk to Puck and let him know you are also interested in Rigatoni's knife. May the best man win!
-	- task3: Talk to Poppy and let her know you have corrected the findings of her last inspection. You would greatly appreciate it, if she could do reinspection soon.
+	- task3: Talk to Poppy and let her know you have corrected the findings of her last inspection. You would greatly appreciate it if she could do her re-inspection soon.
 - ### Round 3:
-	- task1: If asked about who Frank's replacement will be, tell them "Too soon man."
+	- task1: If asked about who Frank's replacement will be, tell them, "Too soon man."
 	- task2: Order a Midori Sour from Ghost Frank.
 	- task3: 
 - ### Final Statement

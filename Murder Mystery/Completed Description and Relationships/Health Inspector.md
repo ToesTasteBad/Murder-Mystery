@@ -18,7 +18,7 @@ You are Flavortown's health inspector. As a result, you're familiar with many of
 ## Tasks
 ___
 - ### Round 1:
-	- task1: If approached by a detective, see if they can find out if Darren Kaufman has started any new buisness ventures you'll need to shut down.  Tell them to speak to Darren and report back what they find out.
+	- task1: If approached by a detective, see if they can find out if Darren Kaufman has started any new buisness ventures you'll need to shut down. Tell them to speak to Darren and report back what they find out.
 	- task2: If approached by someone who asks you to try and convince Gregor to not bid on the wine, agree. Mention who this was to Milo and comment that you thought it a bit strange.
 	- task3: If approached by Harvey about Gregor and Anton, tell him you've known those two have been at odds with each other for awhile now.
 	- task4: If Arthur Cooke tells you something about Frank, remember it!

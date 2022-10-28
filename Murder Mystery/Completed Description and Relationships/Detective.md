@@ -25,7 +25,7 @@ ___
 	- task3:
 - ### Round 3:
 	- task1:  Search Frank Larsen's jacket for clues to his murder.  
-	- task2: If approached about who you think is behind tonights events give your honest opinion.
+	- task2: If approached about who you think is behind tonight's events, give your honest opinion.
 	- task3
 - ### Final Statement
 	- Gregor: I had no motive to kill Gregor Toussaint

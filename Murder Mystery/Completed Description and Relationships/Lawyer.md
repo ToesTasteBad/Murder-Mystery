@@ -21,12 +21,12 @@ ___
 	- task2: If complained to about Rebecca Ramos, offer that you may be able to offer some legal assistance.
 	- task3: If given a letter from Rakeeta Brown about Gregor, give it to Penelope Hunt. As a realtor, this is information she would very much like to know.
 - ### Round 2:
-	- task1: If approached by someone about the legitmacy of the auction, admit that it is a fake, but ask them to keep that knowledge to themselves. Offer to give them a piece of the pie if they do so.
+	- task1: If approached by someone about the legitimacy of the auction, admit that it's a fake, but ask them to keep that knowledge to themselves. Offer to give them a piece of the pie if they do so.
 	- task2: Talk to Penelope and ask how her job is going.
 	- task3:
 - ### Round 3:
 	- task1: Warn Rebecca Ramos that if she doesn't pay Diana for the dress soon, there may be legal action
-	- task2: Talk to Jim and let him know if he is in on any of *these* murders, you can help get him out of it.
+	- task2: Talk to Jim and let him know if he's in on any of *these* murders, you can help get him out of it.
 	- task3:
 - ### Final Statement
 	- Gregor: I had no motive to kill Gregor Toussaint

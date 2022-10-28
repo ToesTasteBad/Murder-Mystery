@@ -17,7 +17,8 @@ ___
 - ### Round 1:
 	- task1:  Inspect the bottle of wine being auctioned to see for yourself what all the fuss is about. It's a bottle you've been wanting for a while and would very much like to win it!
 	- task2:  Speak to [[Wine Collector|Gregor]] and try to get a feel for how interested in this bottle he is.
-	- task3:  Confide in [[Detective|Keith Hartley]] that you recently sold Peinture Célèbre, a painting Reuben had given you as a gift. You're hoping that you can use the money to win tonight's bottle.
+	- task3:  Confide in [[Detective|Keith Hartley]] that you recently sold Peinture Célèbre, a painting Reuben had given you as a gift. Show him the receipt. You're hoping that you can use the money to win tonight's bottle.
+	- task4: Attend the auction and bid on that bottle! With the money from the painting you sold, you could comfortably bid up to $100,000.
 - ### Round 2:
 	- task1: Seek out Giovanni and see if you can strike up a business deal now that Gregor is gone.
 	- task2: Talk with Anton and tell him that you've never been happier to lose a bid on a bottle of wine. Mention that surely either of us would have been able to taste if something was off.

@@ -10,4 +10,5 @@ Welcome to the Murder Mystery! Before we get started, there a couple of things y
 - Many tasks do have scripted responses, but some don't! Don't worry about it!
 - If you have task to give someone information, but you have no idea what that information is, feel free to ask one of us about it!
 - If you're nearing the end of a round, and you have a task that sounds like someone is supposed to approach you, but they haven't yet, feel free to go give them a nudge.
+- Also, no one will know they're a murderer until the end of night!
 - Have fun!

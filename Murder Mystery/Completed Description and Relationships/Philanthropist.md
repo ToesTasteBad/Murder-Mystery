@@ -16,11 +16,11 @@ You are a prominent business man who has made his fortune through oil. Your oil 
 ## Tasks
 ___
 - ### Round 1: 
-	- task1: Talk to Penelope and let her know you only have a few more properties to sell. Thank her for the work shes done thus far.
+	- task1: Talk to Penelope and let her know you only have a few more properties to sell. Thank her for the work she's done thus far.
 	- task2: If approached by your wife with info about Stephen, share that info with General Grey.
 - ### Round 2:
 	- task1: If offered any bribes, refuse them angrily.
-	- task2: If you recieve information about tonight's charity, confront Milo Steinwell about it.
+	- task2: If you receive information about tonight's charity, confront Milo Steinwell about it.
 	- task3: Vent about what you learned from Milo to General Grey.
 - ### Round 3:
 	- task1: Order a Midori Sour from Frank Larsen's secret menu.
