@@ -31,4 +31,4 @@ ___
 - ### Final Statement
 	- Gregor: I had no motive to kill Gregor Toussaint
 	- Frank: I had no motive to kill Frank Larsen
-	- Orzo: I did not kill Orzo Alfredo. It's true that I was in on the scam auction, and that I had access to the bank account all of tonight's profits were going to, but I didn't kill the man. The apron that was used to kill him had a green stain on it, and I never ordered a green drink.
+	- Orzo: I did not kill Orzo Alfredo. It's true that I was in on the scam auction, and that I had access to the bank account where all of tonight's profits were going to, but I didn't kill the man. The apron that was used to kill him had a green stain on it, and I never ordered a green drink.
